@@ -8,14 +8,90 @@
             2018,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2011": {
+                "POSITION": "19\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 13,
+                "LOSTS": 17,
+                "GOALS": 51,
+                "GOALS AGAINST": 69,
+                "GOALS DIFFERENCE": -18.0,
+                "PERFORMANCE (%)": "32%"
+            },
+            "2016": {
+                "POSITION": "20\u00e9",
+                "POINTS": 28,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 7,
+                "LOSTS": 24,
+                "GOALS": 23,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u201335",
+                "PERFORMANCE (%)": "25%"
+            },
+            "2018": {
+                "POSITION": "17\u00e9",
+                "POINTS": 40,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 10,
+                "LOSTS": 18,
+                "GOALS": 30,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "\u201317",
+                "PERFORMANCE (%)": "35%"
+            },
+            "2021": {
+                "POSITION": "8\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 14,
+                "LOSTS": 11,
+                "GOALS": 41,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2022": {
+                "POSITION": "10\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 40,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "0\n",
+                "PERFORMANCE (%)": "46%"
+            }
+        }
     },
     {
         "NAME": "Am\u00e9rica de Natal",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2007
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2007": {
+                "POSITION": "20\u00e9",
+                "POINTS": 17,
+                "MATCHES": 38,
+                "WINS": 4,
+                "DRAWS": 5,
+                "LOSTS": 29,
+                "GOALS": 24,
+                "GOALS AGAINST": 80,
+                "GOALS DIFFERENCE": -56.0,
+                "PERFORMANCE (%)": "15%"
+            }
+        }
     },
     {
         "NAME": "Athletico Paranaense",
@@ -40,7 +116,237 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "12\u00e9",
+                "POINTS": 61,
+                "MATCHES": 46,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 67,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2004": {
+                "POSITION": "2\u00e9",
+                "POINTS": 86,
+                "MATCHES": 46,
+                "WINS": 25,
+                "DRAWS": 11,
+                "LOSTS": 10,
+                "GOALS": 93,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": 37.0,
+                "PERFORMANCE (%)": "62%"
+            },
+            "2005": {
+                "POSITION": "6\u00e9",
+                "POINTS": 61,
+                "MATCHES": 42,
+                "WINS": 18,
+                "DRAWS": 7,
+                "LOSTS": 17,
+                "GOALS": 76,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2006": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 61,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": -1.0,
+                "PERFORMANCE (%)": "42%"
+            },
+            "2007": {
+                "POSITION": "12\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 12,
+                "LOSTS": 12,
+                "GOALS": 51,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": 1.0,
+                "PERFORMANCE (%)": "47%"
+            },
+            "2008": {
+                "POSITION": "13\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 9,
+                "LOSTS": 17,
+                "GOALS": 45,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2009": {
+                "POSITION": "14\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 42,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2010": {
+                "POSITION": "5\u00e9",
+                "POINTS": 60,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 9,
+                "LOSTS": 12,
+                "GOALS": 43,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2011": {
+                "POSITION": "17\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 38,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": -17.0,
+                "PERFORMANCE (%)": "36%"
+            },
+            "2013": {
+                "POSITION": "3\u00e9",
+                "POINTS": 64,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 10,
+                "LOSTS": 10,
+                "GOALS": 65,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "+16",
+                "PERFORMANCE (%)": "56%"
+            },
+            "2014": {
+                "POSITION": "8\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 43,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2015": {
+                "POSITION": "10\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 9,
+                "LOSTS": 15,
+                "GOALS": 43,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2016": {
+                "POSITION": "6\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 6,
+                "LOSTS": 15,
+                "GOALS": 38,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2017": {
+                "POSITION": "11\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 9,
+                "LOSTS": 15,
+                "GOALS": 45,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "+2",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2018": {
+                "POSITION": "7\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 9,
+                "LOSTS": 13,
+                "GOALS": 54,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+17",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2019": {
+                "POSITION": "5\u00e9",
+                "POINTS": 64,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 10,
+                "LOSTS": 10,
+                "GOALS": 51,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "56%"
+            },
+            "2020": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 38,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+2",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2021": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 41,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2022": {
+                "POSITION": "6\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 48,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "0\n",
+                "PERFORMANCE (%)": "50%"
+            }
+        }
     },
     {
         "NAME": "Atl\u00e9tico Goianiense",
@@ -53,7 +359,93 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2010": {
+                "POSITION": "16\u00e9",
+                "POINTS": 42,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 9,
+                "LOSTS": 18,
+                "GOALS": 51,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2011": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 50,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": 5.0,
+                "PERFORMANCE (%)": "42%"
+            },
+            "2012": {
+                "POSITION": "19\u00e9",
+                "POINTS": 30,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 9,
+                "LOSTS": 22,
+                "GOALS": 37,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "\u201330",
+                "PERFORMANCE (%)": "26%"
+            },
+            "2017": {
+                "POSITION": "20\u00e9",
+                "POINTS": 36,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 9,
+                "LOSTS": 20,
+                "GOALS": 38,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u201318",
+                "PERFORMANCE (%)": "32%"
+            },
+            "2020": {
+                "POSITION": "13\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 14,
+                "LOSTS": 12,
+                "GOALS": 40,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2021": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 14,
+                "LOSTS": 11,
+                "GOALS": 33,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2022": {
+                "POSITION": "18\u00e9",
+                "POINTS": 36,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 12,
+                "LOSTS": 18,
+                "GOALS": 39,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "\u221218\n",
+                "PERFORMANCE (%)": "31%"
+            }
+        }
     },
     {
         "NAME": "Atl\u00e9tico Mineiro",
@@ -78,7 +470,237 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "7\u00e9",
+                "POINTS": 72,
+                "MATCHES": 46,
+                "WINS": 19,
+                "DRAWS": 15,
+                "LOSTS": 12,
+                "GOALS": 76,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": "+14",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2004": {
+                "POSITION": "19\u00e9",
+                "POINTS": 53,
+                "MATCHES": 46,
+                "WINS": 12,
+                "DRAWS": 17,
+                "LOSTS": 17,
+                "GOALS": 60,
+                "GOALS AGAINST": 66,
+                "GOALS DIFFERENCE": -6.0,
+                "PERFORMANCE (%)": "38%"
+            },
+            "2005": {
+                "POSITION": "20\u00e9",
+                "POINTS": 47,
+                "MATCHES": 42,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 21,
+                "GOALS": 54,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2007": {
+                "POSITION": "8\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 63,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": 12.0,
+                "PERFORMANCE (%)": "48%"
+            },
+            "2008": {
+                "POSITION": "12\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 50,
+                "GOALS AGAINST": 61,
+                "GOALS DIFFERENCE": "\u201311",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2009": {
+                "POSITION": "7\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 8,
+                "LOSTS": 14,
+                "GOALS": 55,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2010": {
+                "POSITION": "13\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 6,
+                "LOSTS": 19,
+                "GOALS": 52,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2011": {
+                "POSITION": "15\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 6,
+                "LOSTS": 19,
+                "GOALS": 50,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": -10.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2012": {
+                "POSITION": "2\u00e9",
+                "POINTS": 72,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 12,
+                "LOSTS": 6,
+                "GOALS": 64,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+27",
+                "PERFORMANCE (%)": "63%"
+            },
+            "2013": {
+                "POSITION": "8\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 49,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+11",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2014": {
+                "POSITION": "5\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 11,
+                "LOSTS": 10,
+                "GOALS": 51,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2015": {
+                "POSITION": "2\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 6,
+                "LOSTS": 11,
+                "GOALS": 65,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "+18",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2016": {
+                "POSITION": "4\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 11,
+                "LOSTS": 10,
+                "GOALS": 61,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2017": {
+                "POSITION": "9\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 12,
+                "LOSTS": 12,
+                "GOALS": 52,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "+3",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2018": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 8,
+                "LOSTS": 13,
+                "GOALS": 56,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2019": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 45,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2020": {
+                "POSITION": "3\u00e9",
+                "POINTS": 68,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 8,
+                "LOSTS": 10,
+                "GOALS": 64,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2021": {
+                "POSITION": "1\u00e9",
+                "POINTS": 84,
+                "MATCHES": 38,
+                "WINS": 26,
+                "DRAWS": 6,
+                "LOSTS": 6,
+                "GOALS": 67,
+                "GOALS AGAINST": 34,
+                "GOALS DIFFERENCE": "+33",
+                "PERFORMANCE (%)": "74%"
+            },
+            "2022": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 13,
+                "LOSTS": 10,
+                "GOALS": 45,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+8\n",
+                "PERFORMANCE (%)": "50%"
+            }
+        }
     },
     {
         "NAME": "Ava\u00ed",
@@ -91,7 +713,93 @@
             2017,
             2019,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2009": {
+                "POSITION": "6\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 61,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2010": {
+                "POSITION": "15\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 49,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2011": {
+                "POSITION": "20\u00e9",
+                "POINTS": 31,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 10,
+                "LOSTS": 21,
+                "GOALS": 45,
+                "GOALS AGAINST": 75,
+                "GOALS DIFFERENCE": -30.0,
+                "PERFORMANCE (%)": "27%"
+            },
+            "2015": {
+                "POSITION": "17\u00e9",
+                "POINTS": 42,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 9,
+                "LOSTS": 18,
+                "GOALS": 38,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u201322",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2017": {
+                "POSITION": "18\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 13,
+                "LOSTS": 15,
+                "GOALS": 29,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u201319",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2019": {
+                "POSITION": "20\u00e9",
+                "POINTS": 20,
+                "MATCHES": 38,
+                "WINS": 3,
+                "DRAWS": 11,
+                "LOSTS": 24,
+                "GOALS": 18,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": "\u201344",
+                "PERFORMANCE (%)": "17%"
+            },
+            "2022": {
+                "POSITION": "19\u00e9",
+                "POINTS": 35,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 8,
+                "LOSTS": 21,
+                "GOALS": 34,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u221226\n",
+                "PERFORMANCE (%)": "30%"
+            }
+        }
     },
     {
         "NAME": "Bahia",
@@ -107,7 +815,129 @@
             2019,
             2020,
             2021
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "24\u00e9",
+                "POINTS": 46,
+                "MATCHES": 46,
+                "WINS": 12,
+                "DRAWS": 10,
+                "LOSTS": 24,
+                "GOALS": 59,
+                "GOALS AGAINST": 92,
+                "GOALS DIFFERENCE": "\u201333",
+                "PERFORMANCE (%)": "33%"
+            },
+            "2011": {
+                "POSITION": "14\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 13,
+                "LOSTS": 14,
+                "GOALS": 43,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": -6.0,
+                "PERFORMANCE (%)": "40%"
+            },
+            "2012": {
+                "POSITION": "15\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 14,
+                "LOSTS": 13,
+                "GOALS": 37,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2013": {
+                "POSITION": "12\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 37,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2014": {
+                "POSITION": "18\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 31,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "32%"
+            },
+            "2017": {
+                "POSITION": "12\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 14,
+                "GOALS": 50,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "+2",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2018": {
+                "POSITION": "11\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 39,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2019": {
+                "POSITION": "11\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 13,
+                "GOALS": 44,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2020": {
+                "POSITION": "14\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 8,
+                "LOSTS": 18,
+                "GOALS": 48,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": "\u201311",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2021": {
+                "POSITION": "18\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 42,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "38%"
+            }
+        }
     },
     {
         "NAME": "Botafogo",
@@ -130,21 +960,255 @@
             2019,
             2020,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2004": {
+                "POSITION": "20\u00e9",
+                "POINTS": 51,
+                "MATCHES": 46,
+                "WINS": 11,
+                "DRAWS": 18,
+                "LOSTS": 17,
+                "GOALS": 62,
+                "GOALS AGAINST": 71,
+                "GOALS DIFFERENCE": -9.0,
+                "PERFORMANCE (%)": "37%"
+            },
+            "2005": {
+                "POSITION": "9\u00e9",
+                "POINTS": 59,
+                "MATCHES": 42,
+                "WINS": 17,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 57,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2006": {
+                "POSITION": "12\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 12,
+                "LOSTS": 13,
+                "GOALS": 52,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": 2.0,
+                "PERFORMANCE (%)": "45%"
+            },
+            "2007": {
+                "POSITION": "9\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 13,
+                "LOSTS": 11,
+                "GOALS": 62,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": 4.0,
+                "PERFORMANCE (%)": "48%"
+            },
+            "2008": {
+                "POSITION": "7\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 51,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2009": {
+                "POSITION": "15\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 14,
+                "LOSTS": 13,
+                "GOALS": 52,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2010": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 17,
+                "LOSTS": 7,
+                "GOALS": 54,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+12",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2011": {
+                "POSITION": "9\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 8,
+                "LOSTS": 14,
+                "GOALS": 52,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": 3.0,
+                "PERFORMANCE (%)": "49%"
+            },
+            "2012": {
+                "POSITION": "7\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 60,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2013": {
+                "POSITION": "4\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 11,
+                "GOALS": 55,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+14",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2014": {
+                "POSITION": "19\u00e9",
+                "POINTS": 34,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 7,
+                "LOSTS": 22,
+                "GOALS": 31,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u201317",
+                "PERFORMANCE (%)": "30%"
+            },
+            "2016": {
+                "POSITION": "5\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 8,
+                "LOSTS": 13,
+                "GOALS": 43,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2017": {
+                "POSITION": "10\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 45,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+3",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2018": {
+                "POSITION": "9\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 12,
+                "LOSTS": 13,
+                "GOALS": 38,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2019": {
+                "POSITION": "15\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 4,
+                "LOSTS": 21,
+                "GOALS": 31,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u201314",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2020": {
+                "POSITION": "20\u00e9",
+                "POINTS": 27,
+                "MATCHES": 38,
+                "WINS": 5,
+                "DRAWS": 12,
+                "LOSTS": 21,
+                "GOALS": 32,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": "\u201330",
+                "PERFORMANCE (%)": "24%"
+            },
+            "2022": {
+                "POSITION": "11\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 41,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "\u22122\n",
+                "PERFORMANCE (%)": "46%"
+            }
+        }
     },
     {
         "NAME": "Brasiliense",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2005
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2005": {
+                "POSITION": "22\u00e9",
+                "POINTS": 41,
+                "MATCHES": 42,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 21,
+                "GOALS": 47,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "\u201320",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "CSA",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2019
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2019": {
+                "POSITION": "18\u00e9",
+                "POINTS": 32,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 8,
+                "LOSTS": 22,
+                "GOALS": 24,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u201334",
+                "PERFORMANCE (%)": "28%"
+            }
+        }
     },
     {
         "NAME": "Cear\u00e1",
@@ -157,7 +1221,93 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2010": {
+                "POSITION": "12\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 17,
+                "LOSTS": 11,
+                "GOALS": 35,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2011": {
+                "POSITION": "18\u00e9",
+                "POINTS": 39,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 9,
+                "LOSTS": 19,
+                "GOALS": 47,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": -17.0,
+                "PERFORMANCE (%)": "34%"
+            },
+            "2018": {
+                "POSITION": "15\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 14,
+                "LOSTS": 14,
+                "GOALS": 32,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2019": {
+                "POSITION": "16\u00e9",
+                "POINTS": 39,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 9,
+                "LOSTS": 19,
+                "GOALS": 36,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "34%"
+            },
+            "2020": {
+                "POSITION": "11\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 54,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "+3",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2021": {
+                "POSITION": "11\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 17,
+                "LOSTS": 10,
+                "GOALS": 39,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2022": {
+                "POSITION": "17\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 16,
+                "LOSTS": 15,
+                "GOALS": 34,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u22127\n",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "Chapecoense",
@@ -170,7 +1320,93 @@
             2018,
             2019,
             2021
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2014": {
+                "POSITION": "15\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 39,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2015": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 11,
+                "LOSTS": 15,
+                "GOALS": 34,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2016": {
+                "POSITION": "11\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 13,
+                "LOSTS": 12,
+                "GOALS": 49,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2017": {
+                "POSITION": "8\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 47,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2018": {
+                "POSITION": "14\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 34,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "\u201316",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2019": {
+                "POSITION": "19\u00e9",
+                "POINTS": 32,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 11,
+                "LOSTS": 20,
+                "GOALS": 31,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "\u201321",
+                "PERFORMANCE (%)": "28%"
+            },
+            "2021": {
+                "POSITION": "20\u00e9",
+                "POINTS": 15,
+                "MATCHES": 38,
+                "WINS": 1,
+                "DRAWS": 12,
+                "LOSTS": 25,
+                "GOALS": 27,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "\u201340",
+                "PERFORMANCE (%)": "13%"
+            }
+        }
     },
     {
         "NAME": "Corinthians",
@@ -195,7 +1431,237 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "15\u00e9",
+                "POINTS": 59,
+                "MATCHES": 46,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 19,
+                "GOALS": 61,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2004": {
+                "POSITION": "5\u00e9",
+                "POINTS": 74,
+                "MATCHES": 46,
+                "WINS": 20,
+                "DRAWS": 14,
+                "LOSTS": 12,
+                "GOALS": 54,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": 0.0,
+                "PERFORMANCE (%)": "53%"
+            },
+            "2005": {
+                "POSITION": "1\u00e9",
+                "POINTS": 81,
+                "MATCHES": 42,
+                "WINS": 24,
+                "DRAWS": 9,
+                "LOSTS": 9,
+                "GOALS": 87,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": "+28",
+                "PERFORMANCE (%)": "64%"
+            },
+            "2006": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 41,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": -5.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2007": {
+                "POSITION": "17\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 14,
+                "LOSTS": 14,
+                "GOALS": 40,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": -10.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2009": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 50,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2010": {
+                "POSITION": "3\u00e9",
+                "POINTS": 68,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 11,
+                "LOSTS": 8,
+                "GOALS": 65,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+24",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2011": {
+                "POSITION": "1\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 8,
+                "LOSTS": 9,
+                "GOALS": 53,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": 17.0,
+                "PERFORMANCE (%)": "62%"
+            },
+            "2012": {
+                "POSITION": "6\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 51,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+12",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2013": {
+                "POSITION": "10\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 17,
+                "LOSTS": 10,
+                "GOALS": 27,
+                "GOALS AGAINST": 22,
+                "GOALS DIFFERENCE": "+5",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2014": {
+                "POSITION": "4\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 12,
+                "LOSTS": 7,
+                "GOALS": 49,
+                "GOALS AGAINST": 31,
+                "GOALS DIFFERENCE": "+18",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2015": {
+                "POSITION": "1\u00e9",
+                "POINTS": 81,
+                "MATCHES": 38,
+                "WINS": 24,
+                "DRAWS": 9,
+                "LOSTS": 5,
+                "GOALS": 71,
+                "GOALS AGAINST": 31,
+                "GOALS DIFFERENCE": "+40",
+                "PERFORMANCE (%)": "71%"
+            },
+            "2016": {
+                "POSITION": "7\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 48,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2017": {
+                "POSITION": "1\u00e9",
+                "POINTS": 72,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 9,
+                "LOSTS": 8,
+                "GOALS": 50,
+                "GOALS AGAINST": 30,
+                "GOALS DIFFERENCE": "+20",
+                "PERFORMANCE (%)": "63%"
+            },
+            "2018": {
+                "POSITION": "13\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 34,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2019": {
+                "POSITION": "8\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 14,
+                "LOSTS": 10,
+                "GOALS": 42,
+                "GOALS AGAINST": 34,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2020": {
+                "POSITION": "12\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 12,
+                "LOSTS": 13,
+                "GOALS": 45,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2021": {
+                "POSITION": "5\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 40,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2022": {
+                "POSITION": "4\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 11,
+                "LOSTS": 9,
+                "GOALS": 44,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+8\n",
+                "PERFORMANCE (%)": "57%"
+            }
+        }
     },
     {
         "NAME": "Coritiba",
@@ -215,7 +1681,177 @@
             2017,
             2020,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "5\u00e9",
+                "POINTS": 73,
+                "MATCHES": 46,
+                "WINS": 21,
+                "DRAWS": 10,
+                "LOSTS": 15,
+                "GOALS": 67,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2004": {
+                "POSITION": "12\u00e9",
+                "POINTS": 62,
+                "MATCHES": 46,
+                "WINS": 15,
+                "DRAWS": 17,
+                "LOSTS": 14,
+                "GOALS": 53,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": -5.0,
+                "PERFORMANCE (%)": "45%"
+            },
+            "2005": {
+                "POSITION": "19\u00e9",
+                "POINTS": 49,
+                "MATCHES": 42,
+                "WINS": 13,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 51,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2008": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 55,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2009": {
+                "POSITION": "17\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 9,
+                "LOSTS": 17,
+                "GOALS": 48,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2011": {
+                "POSITION": "8\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 9,
+                "LOSTS": 13,
+                "GOALS": 57,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": 16.0,
+                "PERFORMANCE (%)": "50%"
+            },
+            "2012": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 6,
+                "LOSTS": 18,
+                "GOALS": 53,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2013": {
+                "POSITION": "11\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 42,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2014": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 11,
+                "LOSTS": 15,
+                "GOALS": 42,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2015": {
+                "POSITION": "15\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 31,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "\u201311",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2016": {
+                "POSITION": "15\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 13,
+                "LOSTS": 14,
+                "GOALS": 41,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2017": {
+                "POSITION": "17\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 42,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2020": {
+                "POSITION": "19\u00e9",
+                "POINTS": 31,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 10,
+                "LOSTS": 21,
+                "GOALS": 31,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u201323",
+                "PERFORMANCE (%)": "27%"
+            },
+            "2022": {
+                "POSITION": "15\u00e9",
+                "POINTS": 42,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 6,
+                "LOSTS": 20,
+                "GOALS": 39,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u221221\n",
+                "PERFORMANCE (%)": "36%"
+            }
+        }
     },
     {
         "NAME": "Crici\u00fama",
@@ -225,7 +1861,57 @@
             2004,
             2013,
             2014
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "14\u00e9",
+                "POINTS": 60,
+                "MATCHES": 46,
+                "WINS": 17,
+                "DRAWS": 9,
+                "LOSTS": 20,
+                "GOALS": 57,
+                "GOALS AGAINST": 69,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2004": {
+                "POSITION": "21\u00e9",
+                "POINTS": 50,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 22,
+                "GOALS": 61,
+                "GOALS AGAINST": 78,
+                "GOALS DIFFERENCE": -17.0,
+                "PERFORMANCE (%)": "36%"
+            },
+            "2013": {
+                "POSITION": "14\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 7,
+                "LOSTS": 18,
+                "GOALS": 49,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": "\u201314",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2014": {
+                "POSITION": "20\u00e9",
+                "POINTS": 32,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 11,
+                "LOSTS": 20,
+                "GOALS": 28,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u201328",
+                "PERFORMANCE (%)": "28%"
+            }
+        }
     },
     {
         "NAME": "Cruzeiro",
@@ -248,7 +1934,213 @@
             2017,
             2018,
             2019
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "1\u00e9",
+                "POINTS": 100,
+                "MATCHES": 46,
+                "WINS": 31,
+                "DRAWS": 7,
+                "LOSTS": 8,
+                "GOALS": 102,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "+55",
+                "PERFORMANCE (%)": "72%"
+            },
+            "2004": {
+                "POSITION": "13\u00e9",
+                "POINTS": 56,
+                "MATCHES": 46,
+                "WINS": 16,
+                "DRAWS": 8,
+                "LOSTS": 22,
+                "GOALS": 69,
+                "GOALS AGAINST": 81,
+                "GOALS DIFFERENCE": -12.0,
+                "PERFORMANCE (%)": "40%"
+            },
+            "2005": {
+                "POSITION": "8\u00e9",
+                "POINTS": 60,
+                "MATCHES": 42,
+                "WINS": 17,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 73,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2006": {
+                "POSITION": "10\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 52,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": 7.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2007": {
+                "POSITION": "5\u00e9",
+                "POINTS": 60,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 6,
+                "LOSTS": 14,
+                "GOALS": 73,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": 15.0,
+                "PERFORMANCE (%)": "53%"
+            },
+            "2008": {
+                "POSITION": "3\u00e9",
+                "POINTS": 67,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 4,
+                "LOSTS": 13,
+                "GOALS": 59,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "58%"
+            },
+            "2009": {
+                "POSITION": "4\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 8,
+                "LOSTS": 12,
+                "GOALS": 58,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "+5",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2010": {
+                "POSITION": "2\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 9,
+                "LOSTS": 9,
+                "GOALS": 53,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "61%"
+            },
+            "2011": {
+                "POSITION": "16\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 48,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": -3.0,
+                "PERFORMANCE (%)": "37%"
+            },
+            "2012": {
+                "POSITION": "9\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 7,
+                "LOSTS": 16,
+                "GOALS": 47,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2013": {
+                "POSITION": "1\u00e9",
+                "POINTS": 76,
+                "MATCHES": 38,
+                "WINS": 23,
+                "DRAWS": 7,
+                "LOSTS": 8,
+                "GOALS": 77,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+40",
+                "PERFORMANCE (%)": "67%"
+            },
+            "2014": {
+                "POSITION": "1\u00e9",
+                "POINTS": 80,
+                "MATCHES": 38,
+                "WINS": 24,
+                "DRAWS": 8,
+                "LOSTS": 6,
+                "GOALS": 67,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+29",
+                "PERFORMANCE (%)": "70%"
+            },
+            "2015": {
+                "POSITION": "8\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 44,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2016": {
+                "POSITION": "12\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 9,
+                "LOSTS": 15,
+                "GOALS": 48,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2017": {
+                "POSITION": "5\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 47,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2018": {
+                "POSITION": "8\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 34,
+                "GOALS AGAINST": 34,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2019": {
+                "POSITION": "17\u00e9",
+                "POINTS": 36,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 15,
+                "LOSTS": 16,
+                "GOALS": 27,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u201319",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "Cuiab\u00e1",
@@ -256,7 +2148,33 @@
         "YEARS PARTICIPATED": [
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2021": {
+                "POSITION": "15\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 17,
+                "LOSTS": 11,
+                "GOALS": 34,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2022": {
+                "POSITION": "16\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 31,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "\u221211\n",
+                "PERFORMANCE (%)": "35%"
+            }
+        }
     },
     {
         "NAME": "Figueirense",
@@ -273,7 +2191,141 @@
             2014,
             2015,
             2016
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "11\u00e9",
+                "POINTS": 65,
+                "MATCHES": 46,
+                "WINS": 17,
+                "DRAWS": 14,
+                "LOSTS": 15,
+                "GOALS": 62,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2004": {
+                "POSITION": "11\u00e9",
+                "POINTS": 63,
+                "MATCHES": 46,
+                "WINS": 17,
+                "DRAWS": 12,
+                "LOSTS": 17,
+                "GOALS": 57,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": -2.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2005": {
+                "POSITION": "16\u00e9",
+                "POINTS": 53,
+                "MATCHES": 42,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 65,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2006": {
+                "POSITION": "7\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 52,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": 8.0,
+                "PERFORMANCE (%)": "50%"
+            },
+            "2007": {
+                "POSITION": "13\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 57,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": 1.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2008": {
+                "POSITION": "17\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 49,
+                "GOALS AGAINST": 73,
+                "GOALS DIFFERENCE": "\u201324",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2011": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 13,
+                "LOSTS": 10,
+                "GOALS": 46,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": 1.0,
+                "PERFORMANCE (%)": "51%"
+            },
+            "2012": {
+                "POSITION": "20\u00e9",
+                "POINTS": 30,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 9,
+                "LOSTS": 22,
+                "GOALS": 39,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u201333",
+                "PERFORMANCE (%)": "26%"
+            },
+            "2014": {
+                "POSITION": "13\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 37,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2015": {
+                "POSITION": "16\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 36,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "\u201314",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2016": {
+                "POSITION": "18\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 13,
+                "LOSTS": 17,
+                "GOALS": 30,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "\u201320",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "Flamengo",
@@ -299,7 +2351,249 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "8\u00e9",
+                "POINTS": 66,
+                "MATCHES": 46,
+                "WINS": 18,
+                "DRAWS": 12,
+                "LOSTS": 16,
+                "GOALS": 66,
+                "GOALS AGAINST": 73,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2004": {
+                "POSITION": "17\u00e9",
+                "POINTS": 54,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 15,
+                "LOSTS": 18,
+                "GOALS": 51,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": -2.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2005": {
+                "POSITION": "15\u00e9",
+                "POINTS": 55,
+                "MATCHES": 42,
+                "WINS": 14,
+                "DRAWS": 13,
+                "LOSTS": 15,
+                "GOALS": 56,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2006": {
+                "POSITION": "11\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 7,
+                "LOSTS": 16,
+                "GOALS": 44,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": -4.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2007": {
+                "POSITION": "3\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 11,
+                "GOALS": 55,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": 6.0,
+                "PERFORMANCE (%)": "54%"
+            },
+            "2008": {
+                "POSITION": "5\u00e9",
+                "POINTS": 64,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 10,
+                "LOSTS": 10,
+                "GOALS": 67,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "56%"
+            },
+            "2009": {
+                "POSITION": "1\u00e9",
+                "POINTS": 67,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 10,
+                "LOSTS": 9,
+                "GOALS": 58,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+14",
+                "PERFORMANCE (%)": "59%"
+            },
+            "2010": {
+                "POSITION": "14\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 17,
+                "LOSTS": 12,
+                "GOALS": 41,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2011": {
+                "POSITION": "4\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 16,
+                "LOSTS": 7,
+                "GOALS": 59,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": 12.0,
+                "PERFORMANCE (%)": "53%"
+            },
+            "2012": {
+                "POSITION": "11\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 14,
+                "LOSTS": 12,
+                "GOALS": 39,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2013": {
+                "POSITION": "16\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 13,
+                "GOALS": 43,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2014": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 46,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2015": {
+                "POSITION": "12\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 4,
+                "LOSTS": 19,
+                "GOALS": 45,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2016": {
+                "POSITION": "3\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 11,
+                "LOSTS": 7,
+                "GOALS": 52,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+17",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2017": {
+                "POSITION": "6\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 11,
+                "LOSTS": 12,
+                "GOALS": 49,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+11",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2018": {
+                "POSITION": "2\u00e9",
+                "POINTS": 72,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 9,
+                "LOSTS": 8,
+                "GOALS": 59,
+                "GOALS AGAINST": 29,
+                "GOALS DIFFERENCE": "+30",
+                "PERFORMANCE (%)": "63%"
+            },
+            "2019": {
+                "POSITION": "1\u00e9",
+                "POINTS": 90,
+                "MATCHES": 38,
+                "WINS": 28,
+                "DRAWS": 6,
+                "LOSTS": 4,
+                "GOALS": 86,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+49",
+                "PERFORMANCE (%)": "79%"
+            },
+            "2020": {
+                "POSITION": "1\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 8,
+                "LOSTS": 9,
+                "GOALS": 68,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "+20",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2021": {
+                "POSITION": "2\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 8,
+                "LOSTS": 9,
+                "GOALS": 69,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+33",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2022": {
+                "POSITION": "5\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 8,
+                "LOSTS": 12,
+                "GOALS": 60,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+21\n",
+                "PERFORMANCE (%)": "54%"
+            }
+        }
     },
     {
         "NAME": "Fluminense",
@@ -325,7 +2619,249 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "19\u00e9",
+                "POINTS": 52,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 22,
+                "GOALS": 52,
+                "GOALS AGAINST": 77,
+                "GOALS DIFFERENCE": "\u201325",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2004": {
+                "POSITION": "9\u00e9",
+                "POINTS": 67,
+                "MATCHES": 46,
+                "WINS": 18,
+                "DRAWS": 13,
+                "LOSTS": 15,
+                "GOALS": 65,
+                "GOALS AGAINST": 68,
+                "GOALS DIFFERENCE": -3.0,
+                "PERFORMANCE (%)": "48%"
+            },
+            "2005": {
+                "POSITION": "5\u00e9",
+                "POINTS": 68,
+                "MATCHES": 42,
+                "WINS": 19,
+                "DRAWS": 11,
+                "LOSTS": 12,
+                "GOALS": 79,
+                "GOALS AGAINST": 70,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2006": {
+                "POSITION": "15\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 12,
+                "LOSTS": 15,
+                "GOALS": 48,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": -10.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2007": {
+                "POSITION": "4\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 13,
+                "LOSTS": 9,
+                "GOALS": 57,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": 18.0,
+                "PERFORMANCE (%)": "54%"
+            },
+            "2008": {
+                "POSITION": "14\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 12,
+                "LOSTS": 15,
+                "GOALS": 49,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2009": {
+                "POSITION": "16\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 13,
+                "LOSTS": 14,
+                "GOALS": 49,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2010": {
+                "POSITION": "1\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 11,
+                "LOSTS": 7,
+                "GOALS": 62,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+26",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2011": {
+                "POSITION": "3\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 3,
+                "LOSTS": 15,
+                "GOALS": 60,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": 9.0,
+                "PERFORMANCE (%)": "55%"
+            },
+            "2012": {
+                "POSITION": "1\u00e9",
+                "POINTS": 77,
+                "MATCHES": 38,
+                "WINS": 22,
+                "DRAWS": 11,
+                "LOSTS": 5,
+                "GOALS": 61,
+                "GOALS AGAINST": 33,
+                "GOALS DIFFERENCE": "+28",
+                "PERFORMANCE (%)": "67%"
+            },
+            "2013": {
+                "POSITION": "15\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 10,
+                "LOSTS": 16,
+                "GOALS": 43,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2014": {
+                "POSITION": "6\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 11,
+                "GOALS": 61,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2015": {
+                "POSITION": "13\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 5,
+                "LOSTS": 19,
+                "GOALS": 40,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2016": {
+                "POSITION": "13\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 14,
+                "GOALS": 45,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2017": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 14,
+                "LOSTS": 13,
+                "GOALS": 50,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2018": {
+                "POSITION": "12\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 9,
+                "LOSTS": 17,
+                "GOALS": 32,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u201314",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2019": {
+                "POSITION": "14\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 10,
+                "LOSTS": 16,
+                "GOALS": 38,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2020": {
+                "POSITION": "5\u00e9",
+                "POINTS": 64,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 10,
+                "LOSTS": 10,
+                "GOALS": 55,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "56%"
+            },
+            "2021": {
+                "POSITION": "7\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 38,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2022": {
+                "POSITION": "3\u00e9",
+                "POINTS": 70,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 7,
+                "LOSTS": 10,
+                "GOALS": 63,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+22\n",
+                "PERFORMANCE (%)": "61%"
+            }
+        }
     },
     {
         "NAME": "Fortaleza",
@@ -338,7 +2874,93 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "23\u00e9",
+                "POINTS": 49,
+                "MATCHES": 46,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 21,
+                "GOALS": 58,
+                "GOALS AGAINST": 74,
+                "GOALS DIFFERENCE": "\u201316",
+                "PERFORMANCE (%)": "35%"
+            },
+            "2005": {
+                "POSITION": "13\u00e9",
+                "POINTS": 55,
+                "MATCHES": 42,
+                "WINS": 16,
+                "DRAWS": 7,
+                "LOSTS": 19,
+                "GOALS": 58,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2006": {
+                "POSITION": "18\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 14,
+                "LOSTS": 16,
+                "GOALS": 39,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": -23.0,
+                "PERFORMANCE (%)": "33%"
+            },
+            "2019": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 50,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2020": {
+                "POSITION": "16\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 34,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "36%"
+            },
+            "2021": {
+                "POSITION": "4\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 7,
+                "LOSTS": 14,
+                "GOALS": 44,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "51%"
+            },
+            "2022": {
+                "POSITION": "8\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 46,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+7\n",
+                "PERFORMANCE (%)": "48%"
+            }
+        }
     },
     {
         "NAME": "Goi\u00e1s",
@@ -358,7 +2980,177 @@
             2019,
             2020,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "9\u00e9",
+                "POINTS": 65,
+                "MATCHES": 46,
+                "WINS": 18,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 78,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2004": {
+                "POSITION": "6\u00e9",
+                "POINTS": 72,
+                "MATCHES": 46,
+                "WINS": 21,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 81,
+                "GOALS AGAINST": 68,
+                "GOALS DIFFERENCE": 13.0,
+                "PERFORMANCE (%)": "52%"
+            },
+            "2005": {
+                "POSITION": "3\u00e9",
+                "POINTS": 74,
+                "MATCHES": 42,
+                "WINS": 22,
+                "DRAWS": 8,
+                "LOSTS": 12,
+                "GOALS": 68,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "+17",
+                "PERFORMANCE (%)": "59%"
+            },
+            "2006": {
+                "POSITION": "8\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 63,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": 14.0,
+                "PERFORMANCE (%)": "48%"
+            },
+            "2007": {
+                "POSITION": "16\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 6,
+                "LOSTS": 19,
+                "GOALS": 49,
+                "GOALS AGAINST": 62,
+                "GOALS DIFFERENCE": -13.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2008": {
+                "POSITION": "8\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 57,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2009": {
+                "POSITION": "9\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 64,
+                "GOALS AGAINST": 65,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2010": {
+                "POSITION": "19\u00e9",
+                "POINTS": 33,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 9,
+                "LOSTS": 21,
+                "GOALS": 41,
+                "GOALS AGAINST": 68,
+                "GOALS DIFFERENCE": "\u201327",
+                "PERFORMANCE (%)": "29%"
+            },
+            "2013": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 11,
+                "LOSTS": 11,
+                "GOALS": 48,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2014": {
+                "POSITION": "12\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 38,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2015": {
+                "POSITION": "19\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 8,
+                "LOSTS": 20,
+                "GOALS": 39,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "33%"
+            },
+            "2019": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 7,
+                "LOSTS": 16,
+                "GOALS": 46,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": "\u201318",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2020": {
+                "POSITION": "18\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 41,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": "\u201322",
+                "PERFORMANCE (%)": "32%"
+            },
+            "2022": {
+                "POSITION": "13\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 13,
+                "LOSTS": 14,
+                "GOALS": 40,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u221213\n",
+                "PERFORMANCE (%)": "40%"
+            }
+        }
     },
     {
         "NAME": "Gr\u00eamio",
@@ -382,21 +3174,259 @@
             2019,
             2020,
             2021
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "20\u00e9",
+                "POINTS": 50,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 22,
+                "GOALS": 54,
+                "GOALS AGAINST": 68,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "36%"
+            },
+            "2004": {
+                "POSITION": "24\u00e9",
+                "POINTS": 39,
+                "MATCHES": 46,
+                "WINS": 9,
+                "DRAWS": 12,
+                "LOSTS": 25,
+                "GOALS": 60,
+                "GOALS AGAINST": 80,
+                "GOALS DIFFERENCE": -20.0,
+                "PERFORMANCE (%)": "28%"
+            },
+            "2006": {
+                "POSITION": "3\u00e9",
+                "POINTS": 67,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 7,
+                "LOSTS": 11,
+                "GOALS": 64,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": 19.0,
+                "PERFORMANCE (%)": "59%"
+            },
+            "2007": {
+                "POSITION": "6\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 7,
+                "LOSTS": 14,
+                "GOALS": 44,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": 1.0,
+                "PERFORMANCE (%)": "51%"
+            },
+            "2008": {
+                "POSITION": "2\u00e9",
+                "POINTS": 72,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 9,
+                "LOSTS": 8,
+                "GOALS": 59,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+24",
+                "PERFORMANCE (%)": "63%"
+            },
+            "2009": {
+                "POSITION": "8\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 67,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "+21",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2010": {
+                "POSITION": "4\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 12,
+                "LOSTS": 9,
+                "GOALS": 68,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "+25",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2011": {
+                "POSITION": "12\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 49,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": -8.0,
+                "PERFORMANCE (%)": "42%"
+            },
+            "2012": {
+                "POSITION": "3\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 11,
+                "LOSTS": 7,
+                "GOALS": 56,
+                "GOALS AGAINST": 33,
+                "GOALS DIFFERENCE": "+23",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2013": {
+                "POSITION": "2\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 11,
+                "LOSTS": 9,
+                "GOALS": 42,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "57%"
+            },
+            "2014": {
+                "POSITION": "7\u00e9",
+                "POINTS": 61,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 11,
+                "GOALS": 36,
+                "GOALS AGAINST": 24,
+                "GOALS DIFFERENCE": "+12",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2015": {
+                "POSITION": "3\u00e9",
+                "POINTS": 68,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 8,
+                "LOSTS": 10,
+                "GOALS": 52,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+20",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2016": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 11,
+                "LOSTS": 13,
+                "GOALS": 41,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2017": {
+                "POSITION": "4\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 8,
+                "LOSTS": 12,
+                "GOALS": 55,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2018": {
+                "POSITION": "4\u00e9",
+                "POINTS": 66,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 12,
+                "LOSTS": 8,
+                "GOALS": 48,
+                "GOALS AGAINST": 27,
+                "GOALS DIFFERENCE": "+21",
+                "PERFORMANCE (%)": "58%"
+            },
+            "2019": {
+                "POSITION": "4\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 8,
+                "LOSTS": 11,
+                "GOALS": 64,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+25",
+                "PERFORMANCE (%)": "57%"
+            },
+            "2020": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 17,
+                "LOSTS": 7,
+                "GOALS": 53,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2021": {
+                "POSITION": "17\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 7,
+                "LOSTS": 19,
+                "GOALS": 44,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "38%"
+            }
+        }
     },
     {
         "NAME": "Gr\u00eamio Barueri",
-        "PARTICIPATIONS": 1,
+        "PARTICIPATIONS": 2,
         "YEARS PARTICIPATED": [
-            2009
-        ]
-    },
-    {
-        "NAME": "Gr\u00eamio Barueri",
-        "PARTICIPATIONS": 1,
-        "YEARS PARTICIPATED": [
+            2009,
             2010
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2009": {
+                "POSITION": "11\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 13,
+                "GOALS": 59,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2010": {
+                "POSITION": "20\u00e9",
+                "POINTS": 28,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 10,
+                "LOSTS": 21,
+                "GOALS": 39,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": "\u201325",
+                "PERFORMANCE (%)": "25%"
+            }
+        }
     },
     {
         "NAME": "Guarani",
@@ -405,7 +3435,45 @@
             2003,
             2004,
             2010
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "13\u00e9",
+                "POINTS": 61,
+                "MATCHES": 46,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 64,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2004": {
+                "POSITION": "22\u00e9",
+                "POINTS": 49,
+                "MATCHES": 46,
+                "WINS": 11,
+                "DRAWS": 16,
+                "LOSTS": 19,
+                "GOALS": 43,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": -12.0,
+                "PERFORMANCE (%)": "35%"
+            },
+            "2010": {
+                "POSITION": "18\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 13,
+                "LOSTS": 17,
+                "GOALS": 33,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u201320",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "Internacional",
@@ -430,21 +3498,279 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "6\u00e9",
+                "POINTS": 72,
+                "MATCHES": 46,
+                "WINS": 20,
+                "DRAWS": 10,
+                "LOSTS": 16,
+                "GOALS": 59,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "+2",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2004": {
+                "POSITION": "8\u00e9",
+                "POINTS": 67,
+                "MATCHES": 46,
+                "WINS": 20,
+                "DRAWS": 7,
+                "LOSTS": 19,
+                "GOALS": 66,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": 7.0,
+                "PERFORMANCE (%)": "48%"
+            },
+            "2005": {
+                "POSITION": "2\u00e9",
+                "POINTS": 78,
+                "MATCHES": 42,
+                "WINS": 23,
+                "DRAWS": 9,
+                "LOSTS": 10,
+                "GOALS": 72,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "+23",
+                "PERFORMANCE (%)": "61%"
+            },
+            "2006": {
+                "POSITION": "2\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 9,
+                "LOSTS": 9,
+                "GOALS": 52,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": 16.0,
+                "PERFORMANCE (%)": "61%"
+            },
+            "2007": {
+                "POSITION": "11\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 49,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": 5.0,
+                "PERFORMANCE (%)": "47%"
+            },
+            "2008": {
+                "POSITION": "6\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 48,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2009": {
+                "POSITION": "2\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 8,
+                "LOSTS": 11,
+                "GOALS": 65,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+21",
+                "PERFORMANCE (%)": "57%"
+            },
+            "2010": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 48,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "51%"
+            },
+            "2011": {
+                "POSITION": "5\u00e9",
+                "POINTS": 60,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 12,
+                "LOSTS": 10,
+                "GOALS": 57,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": 14.0,
+                "PERFORMANCE (%)": "52%"
+            },
+            "2012": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 13,
+                "LOSTS": 12,
+                "GOALS": 44,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2013": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 15,
+                "LOSTS": 12,
+                "GOALS": 51,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2014": {
+                "POSITION": "3\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 6,
+                "LOSTS": 11,
+                "GOALS": 53,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+12",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2015": {
+                "POSITION": "5\u00e9",
+                "POINTS": 60,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 9,
+                "LOSTS": 12,
+                "GOALS": 39,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2016": {
+                "POSITION": "17\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 35,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2018": {
+                "POSITION": "3\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 12,
+                "LOSTS": 7,
+                "GOALS": 51,
+                "GOALS AGAINST": 29,
+                "GOALS DIFFERENCE": "+22",
+                "PERFORMANCE (%)": "60%"
+            },
+            "2019": {
+                "POSITION": "7\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 9,
+                "LOSTS": 13,
+                "GOALS": 44,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "+5",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2020": {
+                "POSITION": "2\u00e9",
+                "POINTS": 70,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 10,
+                "LOSTS": 8,
+                "GOALS": 61,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+26",
+                "PERFORMANCE (%)": "61%"
+            },
+            "2021": {
+                "POSITION": "12\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 44,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+2",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2022": {
+                "POSITION": "2\u00e9",
+                "POINTS": 73,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 13,
+                "LOSTS": 5,
+                "GOALS": 58,
+                "GOALS AGAINST": 31,
+                "GOALS DIFFERENCE": "+27\n",
+                "PERFORMANCE (%)": "64%"
+            }
+        }
     },
     {
         "NAME": "Ipatinga",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2008
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2008": {
+                "POSITION": "20\u00e9",
+                "POINTS": 35,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 8,
+                "LOSTS": 21,
+                "GOALS": 37,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "\u201330",
+                "PERFORMANCE (%)": "30%"
+            }
+        }
     },
     {
         "NAME": "Joinville",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2015
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2015": {
+                "POSITION": "20\u00e9",
+                "POINTS": 31,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 10,
+                "LOSTS": 21,
+                "GOALS": 26,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u201322",
+                "PERFORMANCE (%)": "27%"
+            }
+        }
     },
     {
         "NAME": "Juventude",
@@ -457,7 +3783,93 @@
             2007,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "18\u00e9",
+                "POINTS": 53,
+                "MATCHES": 46,
+                "WINS": 12,
+                "DRAWS": 14,
+                "LOSTS": 20,
+                "GOALS": 55,
+                "GOALS AGAINST": 70,
+                "GOALS DIFFERENCE": "\u201315",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2004": {
+                "POSITION": "7\u00e9",
+                "POINTS": 70,
+                "MATCHES": 46,
+                "WINS": 20,
+                "DRAWS": 10,
+                "LOSTS": 16,
+                "GOALS": 60,
+                "GOALS AGAINST": 66,
+                "GOALS DIFFERENCE": -6.0,
+                "PERFORMANCE (%)": "51%"
+            },
+            "2005": {
+                "POSITION": "14\u00e9",
+                "POINTS": 55,
+                "MATCHES": 42,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 66,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2006": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 44,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": -10.0,
+                "PERFORMANCE (%)": "41%"
+            },
+            "2007": {
+                "POSITION": "18\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 8,
+                "LOSTS": 19,
+                "GOALS": 43,
+                "GOALS AGAINST": 65,
+                "GOALS DIFFERENCE": -22.0,
+                "PERFORMANCE (%)": "36%"
+            },
+            "2021": {
+                "POSITION": "16\u00e9",
+                "POINTS": 46,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 13,
+                "LOSTS": 14,
+                "GOALS": 36,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2022": {
+                "POSITION": "20\u00e9",
+                "POINTS": 22,
+                "MATCHES": 38,
+                "WINS": 3,
+                "DRAWS": 13,
+                "LOSTS": 22,
+                "GOALS": 29,
+                "GOALS AGAINST": 69,
+                "GOALS DIFFERENCE": "\u221240\n",
+                "PERFORMANCE (%)": "19%"
+            }
+        }
     },
     {
         "NAME": "N\u00e1utico",
@@ -468,7 +3880,69 @@
             2009,
             2012,
             2013
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2007": {
+                "POSITION": "15\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 7,
+                "LOSTS": 17,
+                "GOALS": 66,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": 3.0,
+                "PERFORMANCE (%)": "43%"
+            },
+            "2008": {
+                "POSITION": "16\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 44,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2009": {
+                "POSITION": "19\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 8,
+                "LOSTS": 20,
+                "GOALS": 48,
+                "GOALS AGAINST": 71,
+                "GOALS DIFFERENCE": "\u201323",
+                "PERFORMANCE (%)": "33%"
+            },
+            "2012": {
+                "POSITION": "12\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 7,
+                "LOSTS": 17,
+                "GOALS": 44,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2013": {
+                "POSITION": "20\u00e9",
+                "POINTS": 20,
+                "MATCHES": 38,
+                "WINS": 5,
+                "DRAWS": 5,
+                "LOSTS": 28,
+                "GOALS": 22,
+                "GOALS AGAINST": 79,
+                "GOALS DIFFERENCE": "\u201357",
+                "PERFORMANCE (%)": "17%"
+            }
+        }
     },
     {
         "NAME": "Palmeiras",
@@ -492,7 +3966,225 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2004": {
+                "POSITION": "4\u00e9",
+                "POINTS": 79,
+                "MATCHES": 46,
+                "WINS": 22,
+                "DRAWS": 13,
+                "LOSTS": 11,
+                "GOALS": 72,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": 25.0,
+                "PERFORMANCE (%)": "57%"
+            },
+            "2005": {
+                "POSITION": "4\u00e9",
+                "POINTS": 70,
+                "MATCHES": 42,
+                "WINS": 20,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 81,
+                "GOALS AGAINST": 65,
+                "GOALS DIFFERENCE": "+16",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2006": {
+                "POSITION": "16\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 8,
+                "LOSTS": 18,
+                "GOALS": 58,
+                "GOALS AGAINST": 70,
+                "GOALS DIFFERENCE": -12.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2007": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 48,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": 1.0,
+                "PERFORMANCE (%)": "51%"
+            },
+            "2008": {
+                "POSITION": "4\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 8,
+                "LOSTS": 11,
+                "GOALS": 55,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "57%"
+            },
+            "2009": {
+                "POSITION": "5\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 11,
+                "LOSTS": 10,
+                "GOALS": 58,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2010": {
+                "POSITION": "10\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 14,
+                "LOSTS": 12,
+                "GOALS": 42,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2011": {
+                "POSITION": "11\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 17,
+                "LOSTS": 10,
+                "GOALS": 43,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": 4.0,
+                "PERFORMANCE (%)": "44%"
+            },
+            "2012": {
+                "POSITION": "18\u00e9",
+                "POINTS": 34,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 7,
+                "LOSTS": 22,
+                "GOALS": 39,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u201315",
+                "PERFORMANCE (%)": "30%"
+            },
+            "2014": {
+                "POSITION": "16\u00e9",
+                "POINTS": 40,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 7,
+                "LOSTS": 20,
+                "GOALS": 34,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": "\u201325",
+                "PERFORMANCE (%)": "35%"
+            },
+            "2015": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 60,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2016": {
+                "POSITION": "1\u00e9",
+                "POINTS": 80,
+                "MATCHES": 38,
+                "WINS": 24,
+                "DRAWS": 8,
+                "LOSTS": 6,
+                "GOALS": 62,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+30",
+                "PERFORMANCE (%)": "70%"
+            },
+            "2017": {
+                "POSITION": "2\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 6,
+                "LOSTS": 13,
+                "GOALS": 61,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "+16",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2018": {
+                "POSITION": "1\u00e9",
+                "POINTS": 80,
+                "MATCHES": 38,
+                "WINS": 23,
+                "DRAWS": 11,
+                "LOSTS": 4,
+                "GOALS": 64,
+                "GOALS AGAINST": 26,
+                "GOALS DIFFERENCE": "+38",
+                "PERFORMANCE (%)": "70%"
+            },
+            "2019": {
+                "POSITION": "3\u00e9",
+                "POINTS": 74,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 11,
+                "LOSTS": 6,
+                "GOALS": 61,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+29",
+                "PERFORMANCE (%)": "65%"
+            },
+            "2020": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 13,
+                "LOSTS": 10,
+                "GOALS": 51,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+14",
+                "PERFORMANCE (%)": "51%"
+            },
+            "2021": {
+                "POSITION": "3\u00e9",
+                "POINTS": 66,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 6,
+                "LOSTS": 12,
+                "GOALS": 58,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "58%"
+            },
+            "2022": {
+                "POSITION": "1\u00e9",
+                "POINTS": 81,
+                "MATCHES": 38,
+                "WINS": 23,
+                "DRAWS": 12,
+                "LOSTS": 3,
+                "GOALS": 66,
+                "GOALS AGAINST": 27,
+                "GOALS DIFFERENCE": "+39\n",
+                "PERFORMANCE (%)": "71%"
+            }
+        }
     },
     {
         "NAME": "Paran\u00e1",
@@ -504,7 +4196,81 @@
             2006,
             2007,
             2018
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "10\u00e9",
+                "POINTS": 65,
+                "MATCHES": 46,
+                "WINS": 18,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 85,
+                "GOALS AGAINST": 75,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2004": {
+                "POSITION": "15\u00e9",
+                "POINTS": 54,
+                "MATCHES": 46,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 22,
+                "GOALS": 52,
+                "GOALS AGAINST": 73,
+                "GOALS DIFFERENCE": -21.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2005": {
+                "POSITION": "7\u00e9",
+                "POINTS": 61,
+                "MATCHES": 42,
+                "WINS": 17,
+                "DRAWS": 10,
+                "LOSTS": 15,
+                "GOALS": 59,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2006": {
+                "POSITION": "5\u00e9",
+                "POINTS": 60,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 6,
+                "LOSTS": 14,
+                "GOALS": 56,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": 7.0,
+                "PERFORMANCE (%)": "53%"
+            },
+            "2007": {
+                "POSITION": "19\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 8,
+                "LOSTS": 19,
+                "GOALS": 42,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": -22.0,
+                "PERFORMANCE (%)": "36%"
+            },
+            "2018": {
+                "POSITION": "20\u00e9",
+                "POINTS": 23,
+                "MATCHES": 38,
+                "WINS": 4,
+                "DRAWS": 11,
+                "LOSTS": 23,
+                "GOALS": 18,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "\u201339",
+                "PERFORMANCE (%)": "20%"
+            }
+        }
     },
     {
         "NAME": "Paysandu",
@@ -513,7 +4279,45 @@
             2003,
             2004,
             2005
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "22\u00e9",
+                "POINTS": 49,
+                "MATCHES": 46,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 19,
+                "GOALS": 74,
+                "GOALS AGAINST": 77,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "35%"
+            },
+            "2004": {
+                "POSITION": "14\u00e9",
+                "POINTS": 56,
+                "MATCHES": 46,
+                "WINS": 14,
+                "DRAWS": 14,
+                "LOSTS": 18,
+                "GOALS": 56,
+                "GOALS AGAINST": 76,
+                "GOALS DIFFERENCE": -20.0,
+                "PERFORMANCE (%)": "40%"
+            },
+            "2005": {
+                "POSITION": "21\u00e9",
+                "POINTS": 41,
+                "MATCHES": 42,
+                "WINS": 12,
+                "DRAWS": 5,
+                "LOSTS": 25,
+                "GOALS": 63,
+                "GOALS AGAINST": 92,
+                "GOALS DIFFERENCE": "\u201329",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "Ponte Preta",
@@ -528,7 +4332,117 @@
             2015,
             2016,
             2017
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "21\u00e9",
+                "POINTS": 50,
+                "MATCHES": 46,
+                "WINS": 11,
+                "DRAWS": 18,
+                "LOSTS": 17,
+                "GOALS": 63,
+                "GOALS AGAINST": 73,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "36%"
+            },
+            "2004": {
+                "POSITION": "10\u00e9",
+                "POINTS": 64,
+                "MATCHES": 46,
+                "WINS": 19,
+                "DRAWS": 7,
+                "LOSTS": 20,
+                "GOALS": 43,
+                "GOALS AGAINST": 73,
+                "GOALS DIFFERENCE": -30.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2005": {
+                "POSITION": "18\u00e9",
+                "POINTS": 51,
+                "MATCHES": 42,
+                "WINS": 15,
+                "DRAWS": 6,
+                "LOSTS": 21,
+                "GOALS": 63,
+                "GOALS AGAINST": 80,
+                "GOALS DIFFERENCE": "\u201317",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2006": {
+                "POSITION": "17\u00e9",
+                "POINTS": 39,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 9,
+                "LOSTS": 19,
+                "GOALS": 45,
+                "GOALS AGAINST": 65,
+                "GOALS DIFFERENCE": -20.0,
+                "PERFORMANCE (%)": "34%"
+            },
+            "2012": {
+                "POSITION": "14\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 37,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2013": {
+                "POSITION": "19\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 37,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": "\u201318",
+                "PERFORMANCE (%)": "32%"
+            },
+            "2015": {
+                "POSITION": "11\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 12,
+                "LOSTS": 13,
+                "GOALS": 41,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2016": {
+                "POSITION": "8\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 48,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "\u20134",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2017": {
+                "POSITION": "19\u00e9",
+                "POINTS": 39,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 9,
+                "LOSTS": 19,
+                "GOALS": 37,
+                "GOALS AGAINST": 52,
+                "GOALS DIFFERENCE": "\u201315",
+                "PERFORMANCE (%)": "34%"
+            }
+        }
     },
     {
         "NAME": "Portuguesa",
@@ -537,7 +4451,45 @@
             2008,
             2012,
             2013
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2008": {
+                "POSITION": "19\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 11,
+                "LOSTS": 18,
+                "GOALS": 48,
+                "GOALS AGAINST": 70,
+                "GOALS DIFFERENCE": "\u201322",
+                "PERFORMANCE (%)": "33%"
+            },
+            "2012": {
+                "POSITION": "16\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 15,
+                "LOSTS": 13,
+                "GOALS": 39,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2013": {
+                "POSITION": "17\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 12,
+                "LOSTS": 14,
+                "GOALS": 50,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "42%"
+            }
+        }
     },
     {
         "NAME": "Red Bull Bragantino",
@@ -546,7 +4498,45 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2020": {
+                "POSITION": "10\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 14,
+                "LOSTS": 11,
+                "GOALS": 50,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2021": {
+                "POSITION": "6\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 14,
+                "LOSTS": 10,
+                "GOALS": 55,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2022": {
+                "POSITION": "14\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 49,
+                "GOALS AGAINST": 59,
+                "GOALS DIFFERENCE": "\u221210\n",
+                "PERFORMANCE (%)": "38%"
+            }
+        }
     },
     {
         "NAME": "Santa Cruz",
@@ -554,14 +4544,54 @@
         "YEARS PARTICIPATED": [
             2006,
             2016
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2006": {
+                "POSITION": "20\u00e9",
+                "POINTS": 28,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 7,
+                "LOSTS": 24,
+                "GOALS": 41,
+                "GOALS AGAINST": 76,
+                "GOALS DIFFERENCE": -35.0,
+                "PERFORMANCE (%)": "25%"
+            },
+            "2016": {
+                "POSITION": "19\u00e9",
+                "POINTS": 28,
+                "MATCHES": 38,
+                "WINS": 8,
+                "DRAWS": 7,
+                "LOSTS": 23,
+                "GOALS": 45,
+                "GOALS AGAINST": 69,
+                "GOALS DIFFERENCE": "\u201324",
+                "PERFORMANCE (%)": "27%"
+            }
+        }
     },
     {
         "NAME": "Santo Andr\u00e9",
         "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2009
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2009": {
+                "POSITION": "18\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 8,
+                "LOSTS": 19,
+                "GOALS": 46,
+                "GOALS AGAINST": 61,
+                "GOALS DIFFERENCE": "\u201315",
+                "PERFORMANCE (%)": "36%"
+            }
+        }
     },
     {
         "NAME": "Santos",
@@ -587,7 +4617,249 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "2\u00e9",
+                "POINTS": 87,
+                "MATCHES": 46,
+                "WINS": 25,
+                "DRAWS": 12,
+                "LOSTS": 9,
+                "GOALS": 93,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "+33",
+                "PERFORMANCE (%)": "63%"
+            },
+            "2004": {
+                "POSITION": "1\u00e9",
+                "POINTS": 89,
+                "MATCHES": 46,
+                "WINS": 27,
+                "DRAWS": 8,
+                "LOSTS": 11,
+                "GOALS": 103,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": 45.0,
+                "PERFORMANCE (%)": "64%"
+            },
+            "2005": {
+                "POSITION": "10\u00e9",
+                "POINTS": 59,
+                "MATCHES": 42,
+                "WINS": 16,
+                "DRAWS": 11,
+                "LOSTS": 15,
+                "GOALS": 68,
+                "GOALS AGAINST": 71,
+                "GOALS DIFFERENCE": "\u20133",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2006": {
+                "POSITION": "4\u00e9",
+                "POINTS": 64,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 10,
+                "LOSTS": 10,
+                "GOALS": 58,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": 22.0,
+                "PERFORMANCE (%)": "56%"
+            },
+            "2007": {
+                "POSITION": "2\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 5,
+                "LOSTS": 14,
+                "GOALS": 57,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": 10.0,
+                "PERFORMANCE (%)": "54%"
+            },
+            "2008": {
+                "POSITION": "15\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 12,
+                "LOSTS": 15,
+                "GOALS": 44,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u20139",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2009": {
+                "POSITION": "12\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 13,
+                "GOALS": 58,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2010": {
+                "POSITION": "8\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 11,
+                "LOSTS": 12,
+                "GOALS": 63,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2011": {
+                "POSITION": "10\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 55,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": 0.0,
+                "PERFORMANCE (%)": "46%"
+            },
+            "2012": {
+                "POSITION": "8\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 14,
+                "LOSTS": 11,
+                "GOALS": 50,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2013": {
+                "POSITION": "7\u00e9",
+                "POINTS": 57,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 12,
+                "LOSTS": 11,
+                "GOALS": 51,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+13",
+                "PERFORMANCE (%)": "50%"
+            },
+            "2014": {
+                "POSITION": "9\u00e9",
+                "POINTS": 53,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 42,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+7",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2015": {
+                "POSITION": "7\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 59,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+18",
+                "PERFORMANCE (%)": "51%"
+            },
+            "2016": {
+                "POSITION": "2\u00e9",
+                "POINTS": 71,
+                "MATCHES": 38,
+                "WINS": 22,
+                "DRAWS": 5,
+                "LOSTS": 11,
+                "GOALS": 59,
+                "GOALS AGAINST": 35,
+                "GOALS DIFFERENCE": "+24",
+                "PERFORMANCE (%)": "62%"
+            },
+            "2017": {
+                "POSITION": "3\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 12,
+                "LOSTS": 9,
+                "GOALS": 42,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2018": {
+                "POSITION": "10\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 14,
+                "GOALS": 46,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2019": {
+                "POSITION": "2\u00e9",
+                "POINTS": 74,
+                "MATCHES": 38,
+                "WINS": 22,
+                "DRAWS": 8,
+                "LOSTS": 8,
+                "GOALS": 60,
+                "GOALS AGAINST": 33,
+                "GOALS DIFFERENCE": "+27",
+                "PERFORMANCE (%)": "65%"
+            },
+            "2020": {
+                "POSITION": "8\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 12,
+                "LOSTS": 12,
+                "GOALS": 52,
+                "GOALS AGAINST": 51,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "47%"
+            },
+            "2021": {
+                "POSITION": "10\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 14,
+                "LOSTS": 12,
+                "GOALS": 35,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "\u20135",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2022": {
+                "POSITION": "12\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 11,
+                "LOSTS": 15,
+                "GOALS": 44,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+3\n",
+                "PERFORMANCE (%)": "41%"
+            }
+        }
     },
     {
         "NAME": "Sport",
@@ -604,7 +4876,141 @@
             2018,
             2020,
             2021
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2007": {
+                "POSITION": "14\u00e9",
+                "POINTS": 51,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 9,
+                "LOSTS": 15,
+                "GOALS": 54,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": -1.0,
+                "PERFORMANCE (%)": "45%"
+            },
+            "2008": {
+                "POSITION": "11\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 48,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "+3",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2009": {
+                "POSITION": "20\u00e9",
+                "POINTS": 31,
+                "MATCHES": 38,
+                "WINS": 7,
+                "DRAWS": 10,
+                "LOSTS": 21,
+                "GOALS": 48,
+                "GOALS AGAINST": 71,
+                "GOALS DIFFERENCE": "\u201323",
+                "PERFORMANCE (%)": "27%"
+            },
+            "2012": {
+                "POSITION": "17\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 39,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u201317",
+                "PERFORMANCE (%)": "36%"
+            },
+            "2014": {
+                "POSITION": "11\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 36,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2015": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 14,
+                "LOSTS": 9,
+                "GOALS": 53,
+                "GOALS AGAINST": 38,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2016": {
+                "POSITION": "14\u00e9",
+                "POINTS": 47,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 8,
+                "LOSTS": 17,
+                "GOALS": 49,
+                "GOALS AGAINST": 55,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2017": {
+                "POSITION": "15\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 9,
+                "LOSTS": 17,
+                "GOALS": 46,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2018": {
+                "POSITION": "18\u00e9",
+                "POINTS": 39,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 9,
+                "LOSTS": 18,
+                "GOALS": 35,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "\u201322",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2020": {
+                "POSITION": "15\u00e9",
+                "POINTS": 42,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 6,
+                "LOSTS": 20,
+                "GOALS": 31,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": "\u201319",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2021": {
+                "POSITION": "19\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 11,
+                "LOSTS": 18,
+                "GOALS": 24,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "\u201313",
+                "PERFORMANCE (%)": "33%"
+            }
+        }
     },
     {
         "NAME": "S\u00e3o Caetano",
@@ -614,7 +5020,57 @@
             2004,
             2005,
             2006
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "4\u00e9",
+                "POINTS": 74,
+                "MATCHES": 46,
+                "WINS": 19,
+                "DRAWS": 14,
+                "LOSTS": 13,
+                "GOALS": 53,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+16",
+                "PERFORMANCE (%)": "53%"
+            },
+            "2004": {
+                "POSITION": "18\u00e9",
+                "POINTS": 53,
+                "MATCHES": 46,
+                "WINS": 23,
+                "DRAWS": 8,
+                "LOSTS": 15,
+                "GOALS": 65,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": 15.0,
+                "PERFORMANCE (%)": "38%"
+            },
+            "2005": {
+                "POSITION": "17\u00e9",
+                "POINTS": 52,
+                "MATCHES": 42,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 18,
+                "GOALS": 54,
+                "GOALS AGAINST": 60,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "41%"
+            },
+            "2006": {
+                "POSITION": "19\u00e9",
+                "POINTS": 36,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 9,
+                "LOSTS": 20,
+                "GOALS": 37,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": -16.0,
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     },
     {
         "NAME": "S\u00e3o Paulo",
@@ -640,7 +5096,249 @@
             2020,
             2021,
             2022
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "3\u00e9",
+                "POINTS": 78,
+                "MATCHES": 46,
+                "WINS": 22,
+                "DRAWS": 12,
+                "LOSTS": 12,
+                "GOALS": 81,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "+14",
+                "PERFORMANCE (%)": "56%"
+            },
+            "2004": {
+                "POSITION": "3\u00e9",
+                "POINTS": 82,
+                "MATCHES": 46,
+                "WINS": 24,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 78,
+                "GOALS AGAINST": 43,
+                "GOALS DIFFERENCE": 35.0,
+                "PERFORMANCE (%)": "59%"
+            },
+            "2005": {
+                "POSITION": "11\u00e9",
+                "POINTS": 58,
+                "MATCHES": 42,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 16,
+                "GOALS": 77,
+                "GOALS AGAINST": 67,
+                "GOALS DIFFERENCE": "+10",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2006": {
+                "POSITION": "1\u00e9",
+                "POINTS": 78,
+                "MATCHES": 38,
+                "WINS": 22,
+                "DRAWS": 12,
+                "LOSTS": 4,
+                "GOALS": 66,
+                "GOALS AGAINST": 32,
+                "GOALS DIFFERENCE": 34.0,
+                "PERFORMANCE (%)": "68%"
+            },
+            "2007": {
+                "POSITION": "1\u00e9",
+                "POINTS": 77,
+                "MATCHES": 38,
+                "WINS": 23,
+                "DRAWS": 8,
+                "LOSTS": 7,
+                "GOALS": 55,
+                "GOALS AGAINST": 19,
+                "GOALS DIFFERENCE": 36.0,
+                "PERFORMANCE (%)": "68%"
+            },
+            "2008": {
+                "POSITION": "1\u00e9",
+                "POINTS": 75,
+                "MATCHES": 38,
+                "WINS": 21,
+                "DRAWS": 12,
+                "LOSTS": 5,
+                "GOALS": 66,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+30",
+                "PERFORMANCE (%)": "66%"
+            },
+            "2009": {
+                "POSITION": "3\u00e9",
+                "POINTS": 65,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 11,
+                "LOSTS": 9,
+                "GOALS": 57,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+15",
+                "PERFORMANCE (%)": "57%"
+            },
+            "2010": {
+                "POSITION": "9\u00e9",
+                "POINTS": 55,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 10,
+                "LOSTS": 13,
+                "GOALS": 54,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "0",
+                "PERFORMANCE (%)": "48%"
+            },
+            "2011": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 11,
+                "LOSTS": 11,
+                "GOALS": 57,
+                "GOALS AGAINST": 46,
+                "GOALS DIFFERENCE": 11.0,
+                "PERFORMANCE (%)": "52%"
+            },
+            "2012": {
+                "POSITION": "4\u00e9",
+                "POINTS": 66,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 6,
+                "LOSTS": 12,
+                "GOALS": 59,
+                "GOALS AGAINST": 37,
+                "GOALS DIFFERENCE": "+22",
+                "PERFORMANCE (%)": "58%"
+            },
+            "2013": {
+                "POSITION": "9\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 8,
+                "LOSTS": 16,
+                "GOALS": 39,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2014": {
+                "POSITION": "2\u00e9",
+                "POINTS": 70,
+                "MATCHES": 38,
+                "WINS": 20,
+                "DRAWS": 10,
+                "LOSTS": 8,
+                "GOALS": 59,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": "+19",
+                "PERFORMANCE (%)": "61%"
+            },
+            "2015": {
+                "POSITION": "4\u00e9",
+                "POINTS": 62,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 8,
+                "LOSTS": 12,
+                "GOALS": 53,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "54%"
+            },
+            "2016": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 14,
+                "DRAWS": 10,
+                "LOSTS": 14,
+                "GOALS": 44,
+                "GOALS AGAINST": 36,
+                "GOALS DIFFERENCE": "+8",
+                "PERFORMANCE (%)": "46%"
+            },
+            "2017": {
+                "POSITION": "13\u00e9",
+                "POINTS": 50,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 11,
+                "LOSTS": 14,
+                "GOALS": 48,
+                "GOALS AGAINST": 49,
+                "GOALS DIFFERENCE": "\u20131",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2018": {
+                "POSITION": "5\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 15,
+                "LOSTS": 7,
+                "GOALS": 46,
+                "GOALS AGAINST": 34,
+                "GOALS DIFFERENCE": "+12",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2019": {
+                "POSITION": "6\u00e9",
+                "POINTS": 63,
+                "MATCHES": 38,
+                "WINS": 17,
+                "DRAWS": 12,
+                "LOSTS": 9,
+                "GOALS": 39,
+                "GOALS AGAINST": 30,
+                "GOALS DIFFERENCE": "+9",
+                "PERFORMANCE (%)": "55%"
+            },
+            "2020": {
+                "POSITION": "4\u00e9",
+                "POINTS": 66,
+                "MATCHES": 38,
+                "WINS": 18,
+                "DRAWS": 12,
+                "LOSTS": 8,
+                "GOALS": 59,
+                "GOALS AGAINST": 41,
+                "GOALS DIFFERENCE": "+18",
+                "PERFORMANCE (%)": "58%"
+            },
+            "2021": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 15,
+                "LOSTS": 12,
+                "GOALS": 31,
+                "GOALS AGAINST": 39,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2022": {
+                "POSITION": "9\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 15,
+                "LOSTS": 10,
+                "GOALS": 55,
+                "GOALS AGAINST": 42,
+                "GOALS DIFFERENCE": "+13\n",
+                "PERFORMANCE (%)": "47%"
+            }
+        }
     },
     {
         "NAME": "Vasco da Gama",
@@ -661,7 +5359,189 @@
             2018,
             2019,
             2020
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "17\u00e9",
+                "POINTS": 54,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 15,
+                "LOSTS": 18,
+                "GOALS": 57,
+                "GOALS AGAINST": 69,
+                "GOALS DIFFERENCE": "\u201312",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2004": {
+                "POSITION": "16\u00e9",
+                "POINTS": 54,
+                "MATCHES": 46,
+                "WINS": 14,
+                "DRAWS": 12,
+                "LOSTS": 20,
+                "GOALS": 64,
+                "GOALS AGAINST": 68,
+                "GOALS DIFFERENCE": -4.0,
+                "PERFORMANCE (%)": "39%"
+            },
+            "2005": {
+                "POSITION": "12\u00e9",
+                "POINTS": 56,
+                "MATCHES": 42,
+                "WINS": 15,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 74,
+                "GOALS AGAINST": 84,
+                "GOALS DIFFERENCE": "\u201310",
+                "PERFORMANCE (%)": "44%"
+            },
+            "2006": {
+                "POSITION": "6\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 14,
+                "LOSTS": 9,
+                "GOALS": 57,
+                "GOALS AGAINST": 50,
+                "GOALS DIFFERENCE": 7.0,
+                "PERFORMANCE (%)": "52%"
+            },
+            "2007": {
+                "POSITION": "10\u00e9",
+                "POINTS": 54,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 9,
+                "LOSTS": 14,
+                "GOALS": 58,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": 11.0,
+                "PERFORMANCE (%)": "47%"
+            },
+            "2008": {
+                "POSITION": "18\u00e9",
+                "POINTS": 40,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 7,
+                "LOSTS": 20,
+                "GOALS": 56,
+                "GOALS AGAINST": 72,
+                "GOALS DIFFERENCE": "\u201316",
+                "PERFORMANCE (%)": "35%"
+            },
+            "2010": {
+                "POSITION": "11\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 16,
+                "LOSTS": 11,
+                "GOALS": 43,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2011": {
+                "POSITION": "2\u00e9",
+                "POINTS": 69,
+                "MATCHES": 38,
+                "WINS": 19,
+                "DRAWS": 12,
+                "LOSTS": 7,
+                "GOALS": 57,
+                "GOALS AGAINST": 40,
+                "GOALS DIFFERENCE": 17.0,
+                "PERFORMANCE (%)": "60%"
+            },
+            "2012": {
+                "POSITION": "5\u00e9",
+                "POINTS": 58,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 10,
+                "LOSTS": 12,
+                "GOALS": 45,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+1",
+                "PERFORMANCE (%)": "51%"
+            },
+            "2013": {
+                "POSITION": "18\u00e9",
+                "POINTS": 44,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 11,
+                "LOSTS": 16,
+                "GOALS": 50,
+                "GOALS AGAINST": 61,
+                "GOALS DIFFERENCE": "\u201311",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2015": {
+                "POSITION": "18\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 28,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u201326",
+                "PERFORMANCE (%)": "36%"
+            },
+            "2017": {
+                "POSITION": "7\u00e9",
+                "POINTS": 56,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 11,
+                "LOSTS": 12,
+                "GOALS": 40,
+                "GOALS AGAINST": 47,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "49%"
+            },
+            "2018": {
+                "POSITION": "16\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 13,
+                "LOSTS": 15,
+                "GOALS": 41,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u20137",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2019": {
+                "POSITION": "12\u00e9",
+                "POINTS": 49,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 13,
+                "LOSTS": 13,
+                "GOALS": 39,
+                "GOALS AGAINST": 45,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "43%"
+            },
+            "2020": {
+                "POSITION": "17\u00e9",
+                "POINTS": 41,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 11,
+                "LOSTS": 17,
+                "GOALS": 37,
+                "GOALS AGAINST": 56,
+                "GOALS DIFFERENCE": "\u201319",
+                "PERFORMANCE (%)": "36%"
+            }
+        }
     },
     {
         "NAME": "Vit\u00f3ria",
@@ -677,6 +5557,128 @@
             2016,
             2017,
             2018
-        ]
+        ],
+        "PARTICAPTION DESCRIPTION": {
+            "2003": {
+                "POSITION": "16\u00e9",
+                "POINTS": 56,
+                "MATCHES": 46,
+                "WINS": 15,
+                "DRAWS": 11,
+                "LOSTS": 20,
+                "GOALS": 50,
+                "GOALS AGAINST": 64,
+                "GOALS DIFFERENCE": "\u201314",
+                "PERFORMANCE (%)": "40%"
+            },
+            "2004": {
+                "POSITION": "23\u00e9",
+                "POINTS": 48,
+                "MATCHES": 46,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 24,
+                "GOALS": 68,
+                "GOALS AGAINST": 87,
+                "GOALS DIFFERENCE": -19.0,
+                "PERFORMANCE (%)": "35%"
+            },
+            "2008": {
+                "POSITION": "10\u00e9",
+                "POINTS": 52,
+                "MATCHES": 38,
+                "WINS": 15,
+                "DRAWS": 7,
+                "LOSTS": 16,
+                "GOALS": 48,
+                "GOALS AGAINST": 44,
+                "GOALS DIFFERENCE": "+4",
+                "PERFORMANCE (%)": "45%"
+            },
+            "2009": {
+                "POSITION": "13\u00e9",
+                "POINTS": 48,
+                "MATCHES": 38,
+                "WINS": 13,
+                "DRAWS": 9,
+                "LOSTS": 16,
+                "GOALS": 51,
+                "GOALS AGAINST": 57,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "42%"
+            },
+            "2010": {
+                "POSITION": "17\u00e9",
+                "POINTS": 42,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 15,
+                "LOSTS": 14,
+                "GOALS": 42,
+                "GOALS AGAINST": 48,
+                "GOALS DIFFERENCE": "\u20136",
+                "PERFORMANCE (%)": "37%"
+            },
+            "2013": {
+                "POSITION": "5\u00e9",
+                "POINTS": 59,
+                "MATCHES": 38,
+                "WINS": 16,
+                "DRAWS": 11,
+                "LOSTS": 11,
+                "GOALS": 59,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "+6",
+                "PERFORMANCE (%)": "52%"
+            },
+            "2014": {
+                "POSITION": "17\u00e9",
+                "POINTS": 38,
+                "MATCHES": 38,
+                "WINS": 10,
+                "DRAWS": 8,
+                "LOSTS": 20,
+                "GOALS": 37,
+                "GOALS AGAINST": 54,
+                "GOALS DIFFERENCE": "\u201317",
+                "PERFORMANCE (%)": "33%"
+            },
+            "2016": {
+                "POSITION": "16\u00e9",
+                "POINTS": 45,
+                "MATCHES": 38,
+                "WINS": 12,
+                "DRAWS": 9,
+                "LOSTS": 17,
+                "GOALS": 51,
+                "GOALS AGAINST": 53,
+                "GOALS DIFFERENCE": "\u20132",
+                "PERFORMANCE (%)": "39%"
+            },
+            "2017": {
+                "POSITION": "16\u00e9",
+                "POINTS": 43,
+                "MATCHES": 38,
+                "WINS": 11,
+                "DRAWS": 10,
+                "LOSTS": 17,
+                "GOALS": 50,
+                "GOALS AGAINST": 58,
+                "GOALS DIFFERENCE": "\u20138",
+                "PERFORMANCE (%)": "38%"
+            },
+            "2018": {
+                "POSITION": "19\u00e9",
+                "POINTS": 37,
+                "MATCHES": 38,
+                "WINS": 9,
+                "DRAWS": 10,
+                "LOSTS": 19,
+                "GOALS": 36,
+                "GOALS AGAINST": 63,
+                "GOALS DIFFERENCE": "\u201327",
+                "PERFORMANCE (%)": "32%"
+            }
+        }
     }
 ]
