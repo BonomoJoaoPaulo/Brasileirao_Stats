@@ -19,7 +19,7 @@
                 "LOSTS": 17,
                 "GOALS": 51,
                 "GOALS AGAINST": 69,
-                "GOALS DIFFERENCE": -18.0,
+                "GOALS DIFFERENCE": -18,
                 "PERFORMANCE (%)": "32%"
             },
             "2016": {
@@ -31,7 +31,7 @@
                 "LOSTS": 24,
                 "GOALS": 23,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u201335",
+                "GOALS DIFFERENCE": -35,
                 "PERFORMANCE (%)": "25%"
             },
             "2018": {
@@ -43,7 +43,7 @@
                 "LOSTS": 18,
                 "GOALS": 30,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "\u201317",
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "35%"
             },
             "2021": {
@@ -55,7 +55,7 @@
                 "LOSTS": 11,
                 "GOALS": 41,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "46%"
             },
             "2022": {
@@ -67,7 +67,7 @@
                 "LOSTS": 15,
                 "GOALS": 40,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "0\n",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "46%"
             }
         }
@@ -88,7 +88,7 @@
                 "LOSTS": 29,
                 "GOALS": 24,
                 "GOALS AGAINST": 80,
-                "GOALS DIFFERENCE": -56.0,
+                "GOALS DIFFERENCE": -56,
                 "PERFORMANCE (%)": "15%"
             }
         }
@@ -127,7 +127,7 @@
                 "LOSTS": 19,
                 "GOALS": 67,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "44%"
             },
             "2004": {
@@ -139,7 +139,7 @@
                 "LOSTS": 10,
                 "GOALS": 93,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": 37.0,
+                "GOALS DIFFERENCE": 37,
                 "PERFORMANCE (%)": "62%"
             },
             "2005": {
@@ -151,7 +151,7 @@
                 "LOSTS": 17,
                 "GOALS": 76,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "48%"
             },
             "2006": {
@@ -163,7 +163,7 @@
                 "LOSTS": 16,
                 "GOALS": 61,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": -1.0,
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "42%"
             },
             "2007": {
@@ -175,7 +175,7 @@
                 "LOSTS": 12,
                 "GOALS": 51,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": 1.0,
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2008": {
@@ -187,7 +187,7 @@
                 "LOSTS": 17,
                 "GOALS": 45,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "39%"
             },
             "2009": {
@@ -199,7 +199,7 @@
                 "LOSTS": 16,
                 "GOALS": 42,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "42%"
             },
             "2010": {
@@ -211,7 +211,7 @@
                 "LOSTS": 12,
                 "GOALS": 43,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "53%"
             },
             "2011": {
@@ -223,7 +223,7 @@
                 "LOSTS": 17,
                 "GOALS": 38,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": -17.0,
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "36%"
             },
             "2013": {
@@ -235,7 +235,7 @@
                 "LOSTS": 10,
                 "GOALS": 65,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "+16",
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "56%"
             },
             "2014": {
@@ -247,7 +247,7 @@
                 "LOSTS": 14,
                 "GOALS": 43,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2015": {
@@ -259,7 +259,7 @@
                 "LOSTS": 15,
                 "GOALS": 43,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "45%"
             },
             "2016": {
@@ -271,7 +271,7 @@
                 "LOSTS": 15,
                 "GOALS": 38,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "50%"
             },
             "2017": {
@@ -283,7 +283,7 @@
                 "LOSTS": 15,
                 "GOALS": 45,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "+2",
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "45%"
             },
             "2018": {
@@ -295,7 +295,7 @@
                 "LOSTS": 13,
                 "GOALS": 54,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+17",
+                "GOALS DIFFERENCE": 17,
                 "PERFORMANCE (%)": "50%"
             },
             "2019": {
@@ -307,7 +307,7 @@
                 "LOSTS": 10,
                 "GOALS": 51,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "56%"
             },
             "2020": {
@@ -319,7 +319,7 @@
                 "LOSTS": 15,
                 "GOALS": 38,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+2",
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "46%"
             },
             "2021": {
@@ -331,7 +331,7 @@
                 "LOSTS": 17,
                 "GOALS": 41,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "41%"
             },
             "2022": {
@@ -343,7 +343,7 @@
                 "LOSTS": 12,
                 "GOALS": 48,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "0\n",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "50%"
             }
         }
@@ -370,7 +370,7 @@
                 "LOSTS": 18,
                 "GOALS": 51,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "37%"
             },
             "2011": {
@@ -382,7 +382,7 @@
                 "LOSTS": 14,
                 "GOALS": 50,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": 5.0,
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "42%"
             },
             "2012": {
@@ -394,7 +394,7 @@
                 "LOSTS": 22,
                 "GOALS": 37,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "\u201330",
+                "GOALS DIFFERENCE": -30,
                 "PERFORMANCE (%)": "26%"
             },
             "2017": {
@@ -406,7 +406,7 @@
                 "LOSTS": 20,
                 "GOALS": 38,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u201318",
+                "GOALS DIFFERENCE": -18,
                 "PERFORMANCE (%)": "32%"
             },
             "2020": {
@@ -418,7 +418,7 @@
                 "LOSTS": 12,
                 "GOALS": 40,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "44%"
             },
             "2021": {
@@ -430,7 +430,7 @@
                 "LOSTS": 11,
                 "GOALS": 33,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "46%"
             },
             "2022": {
@@ -442,7 +442,7 @@
                 "LOSTS": 18,
                 "GOALS": 39,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "\u221218\n",
+                "GOALS DIFFERENCE": -18,
                 "PERFORMANCE (%)": "31%"
             }
         }
@@ -481,7 +481,7 @@
                 "LOSTS": 12,
                 "GOALS": 76,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": "+14",
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "52%"
             },
             "2004": {
@@ -493,7 +493,7 @@
                 "LOSTS": 17,
                 "GOALS": 60,
                 "GOALS AGAINST": 66,
-                "GOALS DIFFERENCE": -6.0,
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "38%"
             },
             "2005": {
@@ -505,7 +505,7 @@
                 "LOSTS": 21,
                 "GOALS": 54,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "37%"
             },
             "2007": {
@@ -517,7 +517,7 @@
                 "LOSTS": 13,
                 "GOALS": 63,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": 12.0,
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "48%"
             },
             "2008": {
@@ -529,7 +529,7 @@
                 "LOSTS": 14,
                 "GOALS": 50,
                 "GOALS AGAINST": 61,
-                "GOALS DIFFERENCE": "\u201311",
+                "GOALS DIFFERENCE": -11,
                 "PERFORMANCE (%)": "42%"
             },
             "2009": {
@@ -541,7 +541,7 @@
                 "LOSTS": 14,
                 "GOALS": 55,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "49%"
             },
             "2010": {
@@ -553,7 +553,7 @@
                 "LOSTS": 19,
                 "GOALS": 52,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "39%"
             },
             "2011": {
@@ -565,7 +565,7 @@
                 "LOSTS": 19,
                 "GOALS": 50,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": -10.0,
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "39%"
             },
             "2012": {
@@ -577,7 +577,7 @@
                 "LOSTS": 6,
                 "GOALS": 64,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+27",
+                "GOALS DIFFERENCE": 27,
                 "PERFORMANCE (%)": "63%"
             },
             "2013": {
@@ -589,7 +589,7 @@
                 "LOSTS": 11,
                 "GOALS": 49,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+11",
+                "GOALS DIFFERENCE": 11,
                 "PERFORMANCE (%)": "50%"
             },
             "2014": {
@@ -601,7 +601,7 @@
                 "LOSTS": 10,
                 "GOALS": 51,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "54%"
             },
             "2015": {
@@ -613,7 +613,7 @@
                 "LOSTS": 11,
                 "GOALS": 65,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "+18",
+                "GOALS DIFFERENCE": 18,
                 "PERFORMANCE (%)": "60%"
             },
             "2016": {
@@ -625,7 +625,7 @@
                 "LOSTS": 10,
                 "GOALS": 61,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "54%"
             },
             "2017": {
@@ -637,7 +637,7 @@
                 "LOSTS": 12,
                 "GOALS": 52,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "+3",
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "47%"
             },
             "2018": {
@@ -649,7 +649,7 @@
                 "LOSTS": 13,
                 "GOALS": 56,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "52%"
             },
             "2019": {
@@ -661,7 +661,7 @@
                 "LOSTS": 16,
                 "GOALS": 45,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "42%"
             },
             "2020": {
@@ -673,7 +673,7 @@
                 "LOSTS": 10,
                 "GOALS": 64,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "60%"
             },
             "2021": {
@@ -685,7 +685,7 @@
                 "LOSTS": 6,
                 "GOALS": 67,
                 "GOALS AGAINST": 34,
-                "GOALS DIFFERENCE": "+33",
+                "GOALS DIFFERENCE": 33,
                 "PERFORMANCE (%)": "74%"
             },
             "2022": {
@@ -697,7 +697,7 @@
                 "LOSTS": 10,
                 "GOALS": 45,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+8\n",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "50%"
             }
         }
@@ -724,7 +724,7 @@
                 "LOSTS": 11,
                 "GOALS": 61,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "50%"
             },
             "2010": {
@@ -736,7 +736,7 @@
                 "LOSTS": 17,
                 "GOALS": 49,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "38%"
             },
             "2011": {
@@ -748,7 +748,7 @@
                 "LOSTS": 21,
                 "GOALS": 45,
                 "GOALS AGAINST": 75,
-                "GOALS DIFFERENCE": -30.0,
+                "GOALS DIFFERENCE": -30,
                 "PERFORMANCE (%)": "27%"
             },
             "2015": {
@@ -760,7 +760,7 @@
                 "LOSTS": 18,
                 "GOALS": 38,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u201322",
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "37%"
             },
             "2017": {
@@ -772,7 +772,7 @@
                 "LOSTS": 15,
                 "GOALS": 29,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u201319",
+                "GOALS DIFFERENCE": -19,
                 "PERFORMANCE (%)": "38%"
             },
             "2019": {
@@ -784,7 +784,7 @@
                 "LOSTS": 24,
                 "GOALS": 18,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": "\u201344",
+                "GOALS DIFFERENCE": -44,
                 "PERFORMANCE (%)": "17%"
             },
             "2022": {
@@ -796,7 +796,7 @@
                 "LOSTS": 21,
                 "GOALS": 34,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u221226\n",
+                "GOALS DIFFERENCE": -26,
                 "PERFORMANCE (%)": "30%"
             }
         }
@@ -826,7 +826,7 @@
                 "LOSTS": 24,
                 "GOALS": 59,
                 "GOALS AGAINST": 92,
-                "GOALS DIFFERENCE": "\u201333",
+                "GOALS DIFFERENCE": -33,
                 "PERFORMANCE (%)": "33%"
             },
             "2011": {
@@ -838,7 +838,7 @@
                 "LOSTS": 14,
                 "GOALS": 43,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": -6.0,
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "40%"
             },
             "2012": {
@@ -850,7 +850,7 @@
                 "LOSTS": 13,
                 "GOALS": 37,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "41%"
             },
             "2013": {
@@ -862,7 +862,7 @@
                 "LOSTS": 14,
                 "GOALS": 37,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "42%"
             },
             "2014": {
@@ -874,7 +874,7 @@
                 "LOSTS": 19,
                 "GOALS": 31,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "32%"
             },
             "2017": {
@@ -886,7 +886,7 @@
                 "LOSTS": 14,
                 "GOALS": 50,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "+2",
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "44%"
             },
             "2018": {
@@ -898,7 +898,7 @@
                 "LOSTS": 14,
                 "GOALS": 39,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "42%"
             },
             "2019": {
@@ -910,7 +910,7 @@
                 "LOSTS": 13,
                 "GOALS": 44,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "43%"
             },
             "2020": {
@@ -922,7 +922,7 @@
                 "LOSTS": 18,
                 "GOALS": 48,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": "\u201311",
+                "GOALS DIFFERENCE": -11,
                 "PERFORMANCE (%)": "39%"
             },
             "2021": {
@@ -934,7 +934,7 @@
                 "LOSTS": 17,
                 "GOALS": 42,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "38%"
             }
         }
@@ -971,7 +971,7 @@
                 "LOSTS": 17,
                 "GOALS": 62,
                 "GOALS AGAINST": 71,
-                "GOALS DIFFERENCE": -9.0,
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "37%"
             },
             "2005": {
@@ -983,7 +983,7 @@
                 "LOSTS": 17,
                 "GOALS": 57,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2006": {
@@ -995,7 +995,7 @@
                 "LOSTS": 13,
                 "GOALS": 52,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": 2.0,
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "45%"
             },
             "2007": {
@@ -1007,7 +1007,7 @@
                 "LOSTS": 11,
                 "GOALS": 62,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": 4.0,
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "48%"
             },
             "2008": {
@@ -1019,7 +1019,7 @@
                 "LOSTS": 15,
                 "GOALS": 51,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "46%"
             },
             "2009": {
@@ -1031,7 +1031,7 @@
                 "LOSTS": 13,
                 "GOALS": 52,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "41%"
             },
             "2010": {
@@ -1043,7 +1043,7 @@
                 "LOSTS": 7,
                 "GOALS": 54,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+12",
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "52%"
             },
             "2011": {
@@ -1055,7 +1055,7 @@
                 "LOSTS": 14,
                 "GOALS": 52,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": 3.0,
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "49%"
             },
             "2012": {
@@ -1067,7 +1067,7 @@
                 "LOSTS": 13,
                 "GOALS": 60,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "48%"
             },
             "2013": {
@@ -1079,7 +1079,7 @@
                 "LOSTS": 11,
                 "GOALS": 55,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+14",
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "53%"
             },
             "2014": {
@@ -1091,7 +1091,7 @@
                 "LOSTS": 22,
                 "GOALS": 31,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u201317",
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "30%"
             },
             "2016": {
@@ -1103,7 +1103,7 @@
                 "LOSTS": 13,
                 "GOALS": 43,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "52%"
             },
             "2017": {
@@ -1115,7 +1115,7 @@
                 "LOSTS": 13,
                 "GOALS": 45,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+3",
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "46%"
             },
             "2018": {
@@ -1127,7 +1127,7 @@
                 "LOSTS": 13,
                 "GOALS": 38,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "45%"
             },
             "2019": {
@@ -1139,7 +1139,7 @@
                 "LOSTS": 21,
                 "GOALS": 31,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u201314",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "38%"
             },
             "2020": {
@@ -1151,7 +1151,7 @@
                 "LOSTS": 21,
                 "GOALS": 32,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": "\u201330",
+                "GOALS DIFFERENCE": -30,
                 "PERFORMANCE (%)": "24%"
             },
             "2022": {
@@ -1163,7 +1163,7 @@
                 "LOSTS": 15,
                 "GOALS": 41,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "\u22122\n",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "46%"
             }
         }
@@ -1184,7 +1184,7 @@
                 "LOSTS": 21,
                 "GOALS": 47,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "\u201320",
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -1205,7 +1205,7 @@
                 "LOSTS": 22,
                 "GOALS": 24,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u201334",
+                "GOALS DIFFERENCE": -34,
                 "PERFORMANCE (%)": "28%"
             }
         }
@@ -1232,7 +1232,7 @@
                 "LOSTS": 11,
                 "GOALS": 35,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "41%"
             },
             "2011": {
@@ -1244,7 +1244,7 @@
                 "LOSTS": 19,
                 "GOALS": 47,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": -17.0,
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "34%"
             },
             "2018": {
@@ -1256,7 +1256,7 @@
                 "LOSTS": 14,
                 "GOALS": 32,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "39%"
             },
             "2019": {
@@ -1268,7 +1268,7 @@
                 "LOSTS": 19,
                 "GOALS": 36,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "34%"
             },
             "2020": {
@@ -1280,7 +1280,7 @@
                 "LOSTS": 14,
                 "GOALS": 54,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "+3",
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "46%"
             },
             "2021": {
@@ -1292,7 +1292,7 @@
                 "LOSTS": 10,
                 "GOALS": 39,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "44%"
             },
             "2022": {
@@ -1304,7 +1304,7 @@
                 "LOSTS": 15,
                 "GOALS": 34,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u22127\n",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -1331,7 +1331,7 @@
                 "LOSTS": 17,
                 "GOALS": 39,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "38%"
             },
             "2015": {
@@ -1343,7 +1343,7 @@
                 "LOSTS": 15,
                 "GOALS": 34,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "41%"
             },
             "2016": {
@@ -1355,7 +1355,7 @@
                 "LOSTS": 12,
                 "GOALS": 49,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "46%"
             },
             "2017": {
@@ -1367,7 +1367,7 @@
                 "LOSTS": 14,
                 "GOALS": 47,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "47%"
             },
             "2018": {
@@ -1379,7 +1379,7 @@
                 "LOSTS": 16,
                 "GOALS": 34,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "\u201316",
+                "GOALS DIFFERENCE": -16,
                 "PERFORMANCE (%)": "39%"
             },
             "2019": {
@@ -1391,7 +1391,7 @@
                 "LOSTS": 20,
                 "GOALS": 31,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "\u201321",
+                "GOALS DIFFERENCE": -21,
                 "PERFORMANCE (%)": "28%"
             },
             "2021": {
@@ -1403,7 +1403,7 @@
                 "LOSTS": 25,
                 "GOALS": 27,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "\u201340",
+                "GOALS DIFFERENCE": -40,
                 "PERFORMANCE (%)": "13%"
             }
         }
@@ -1442,7 +1442,7 @@
                 "LOSTS": 19,
                 "GOALS": 61,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "42%"
             },
             "2004": {
@@ -1454,7 +1454,7 @@
                 "LOSTS": 12,
                 "GOALS": 54,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": 0.0,
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "53%"
             },
             "2005": {
@@ -1466,7 +1466,7 @@
                 "LOSTS": 9,
                 "GOALS": 87,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": "+28",
+                "GOALS DIFFERENCE": 28,
                 "PERFORMANCE (%)": "64%"
             },
             "2006": {
@@ -1478,7 +1478,7 @@
                 "LOSTS": 15,
                 "GOALS": 41,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": -5.0,
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "46%"
             },
             "2007": {
@@ -1490,7 +1490,7 @@
                 "LOSTS": 14,
                 "GOALS": 40,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": -10.0,
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "39%"
             },
             "2009": {
@@ -1502,7 +1502,7 @@
                 "LOSTS": 14,
                 "GOALS": 50,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "46%"
             },
             "2010": {
@@ -1514,7 +1514,7 @@
                 "LOSTS": 8,
                 "GOALS": 65,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+24",
+                "GOALS DIFFERENCE": 24,
                 "PERFORMANCE (%)": "60%"
             },
             "2011": {
@@ -1526,7 +1526,7 @@
                 "LOSTS": 9,
                 "GOALS": 53,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": 17.0,
+                "GOALS DIFFERENCE": 17,
                 "PERFORMANCE (%)": "62%"
             },
             "2012": {
@@ -1538,7 +1538,7 @@
                 "LOSTS": 11,
                 "GOALS": 51,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+12",
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "50%"
             },
             "2013": {
@@ -1550,7 +1550,7 @@
                 "LOSTS": 10,
                 "GOALS": 27,
                 "GOALS AGAINST": 22,
-                "GOALS DIFFERENCE": "+5",
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "44%"
             },
             "2014": {
@@ -1562,7 +1562,7 @@
                 "LOSTS": 7,
                 "GOALS": 49,
                 "GOALS AGAINST": 31,
-                "GOALS DIFFERENCE": "+18",
+                "GOALS DIFFERENCE": 18,
                 "PERFORMANCE (%)": "60%"
             },
             "2015": {
@@ -1574,7 +1574,7 @@
                 "LOSTS": 5,
                 "GOALS": 71,
                 "GOALS AGAINST": 31,
-                "GOALS DIFFERENCE": "+40",
+                "GOALS DIFFERENCE": 40,
                 "PERFORMANCE (%)": "71%"
             },
             "2016": {
@@ -1586,7 +1586,7 @@
                 "LOSTS": 13,
                 "GOALS": 48,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "48%"
             },
             "2017": {
@@ -1598,7 +1598,7 @@
                 "LOSTS": 8,
                 "GOALS": 50,
                 "GOALS AGAINST": 30,
-                "GOALS DIFFERENCE": "+20",
+                "GOALS DIFFERENCE": 20,
                 "PERFORMANCE (%)": "63%"
             },
             "2018": {
@@ -1610,7 +1610,7 @@
                 "LOSTS": 16,
                 "GOALS": 34,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "39%"
             },
             "2019": {
@@ -1622,7 +1622,7 @@
                 "LOSTS": 10,
                 "GOALS": 42,
                 "GOALS AGAINST": 34,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "49%"
             },
             "2020": {
@@ -1634,7 +1634,7 @@
                 "LOSTS": 13,
                 "GOALS": 45,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "45%"
             },
             "2021": {
@@ -1646,7 +1646,7 @@
                 "LOSTS": 11,
                 "GOALS": 40,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "50%"
             },
             "2022": {
@@ -1658,7 +1658,7 @@
                 "LOSTS": 9,
                 "GOALS": 44,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+8\n",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "57%"
             }
         }
@@ -1692,7 +1692,7 @@
                 "LOSTS": 15,
                 "GOALS": 67,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "52%"
             },
             "2004": {
@@ -1704,7 +1704,7 @@
                 "LOSTS": 14,
                 "GOALS": 53,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": -5.0,
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "45%"
             },
             "2005": {
@@ -1716,7 +1716,7 @@
                 "LOSTS": 19,
                 "GOALS": 51,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "39%"
             },
             "2008": {
@@ -1728,7 +1728,7 @@
                 "LOSTS": 13,
                 "GOALS": 55,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "46%"
             },
             "2009": {
@@ -1740,7 +1740,7 @@
                 "LOSTS": 17,
                 "GOALS": 48,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "39%"
             },
             "2011": {
@@ -1752,7 +1752,7 @@
                 "LOSTS": 13,
                 "GOALS": 57,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": 16.0,
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "50%"
             },
             "2012": {
@@ -1764,7 +1764,7 @@
                 "LOSTS": 18,
                 "GOALS": 53,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "42%"
             },
             "2013": {
@@ -1776,7 +1776,7 @@
                 "LOSTS": 14,
                 "GOALS": 42,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "42%"
             },
             "2014": {
@@ -1788,7 +1788,7 @@
                 "LOSTS": 15,
                 "GOALS": 42,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "41%"
             },
             "2015": {
@@ -1800,7 +1800,7 @@
                 "LOSTS": 16,
                 "GOALS": 31,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "\u201311",
+                "GOALS DIFFERENCE": -11,
                 "PERFORMANCE (%)": "39%"
             },
             "2016": {
@@ -1812,7 +1812,7 @@
                 "LOSTS": 14,
                 "GOALS": 41,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "40%"
             },
             "2017": {
@@ -1824,7 +1824,7 @@
                 "LOSTS": 17,
                 "GOALS": 42,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "38%"
             },
             "2020": {
@@ -1836,7 +1836,7 @@
                 "LOSTS": 21,
                 "GOALS": 31,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u201323",
+                "GOALS DIFFERENCE": -23,
                 "PERFORMANCE (%)": "27%"
             },
             "2022": {
@@ -1848,7 +1848,7 @@
                 "LOSTS": 20,
                 "GOALS": 39,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u221221\n",
+                "GOALS DIFFERENCE": -21,
                 "PERFORMANCE (%)": "36%"
             }
         }
@@ -1872,7 +1872,7 @@
                 "LOSTS": 20,
                 "GOALS": 57,
                 "GOALS AGAINST": 69,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "43%"
             },
             "2004": {
@@ -1884,7 +1884,7 @@
                 "LOSTS": 22,
                 "GOALS": 61,
                 "GOALS AGAINST": 78,
-                "GOALS DIFFERENCE": -17.0,
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "36%"
             },
             "2013": {
@@ -1896,7 +1896,7 @@
                 "LOSTS": 18,
                 "GOALS": 49,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": "\u201314",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "40%"
             },
             "2014": {
@@ -1908,7 +1908,7 @@
                 "LOSTS": 20,
                 "GOALS": 28,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u201328",
+                "GOALS DIFFERENCE": -28,
                 "PERFORMANCE (%)": "28%"
             }
         }
@@ -1945,7 +1945,7 @@
                 "LOSTS": 8,
                 "GOALS": 102,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "+55",
+                "GOALS DIFFERENCE": 55,
                 "PERFORMANCE (%)": "72%"
             },
             "2004": {
@@ -1957,7 +1957,7 @@
                 "LOSTS": 22,
                 "GOALS": 69,
                 "GOALS AGAINST": 81,
-                "GOALS DIFFERENCE": -12.0,
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "40%"
             },
             "2005": {
@@ -1969,7 +1969,7 @@
                 "LOSTS": 16,
                 "GOALS": 73,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2006": {
@@ -1981,7 +1981,7 @@
                 "LOSTS": 13,
                 "GOALS": 52,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": 7.0,
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "46%"
             },
             "2007": {
@@ -1993,7 +1993,7 @@
                 "LOSTS": 14,
                 "GOALS": 73,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": 15.0,
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "53%"
             },
             "2008": {
@@ -2005,7 +2005,7 @@
                 "LOSTS": 13,
                 "GOALS": 59,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "58%"
             },
             "2009": {
@@ -2017,7 +2017,7 @@
                 "LOSTS": 12,
                 "GOALS": 58,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "+5",
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "54%"
             },
             "2010": {
@@ -2029,7 +2029,7 @@
                 "LOSTS": 9,
                 "GOALS": 53,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "61%"
             },
             "2011": {
@@ -2041,7 +2041,7 @@
                 "LOSTS": 17,
                 "GOALS": 48,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": -3.0,
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "37%"
             },
             "2012": {
@@ -2053,7 +2053,7 @@
                 "LOSTS": 16,
                 "GOALS": 47,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "45%"
             },
             "2013": {
@@ -2065,7 +2065,7 @@
                 "LOSTS": 8,
                 "GOALS": 77,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+40",
+                "GOALS DIFFERENCE": 40,
                 "PERFORMANCE (%)": "67%"
             },
             "2014": {
@@ -2077,7 +2077,7 @@
                 "LOSTS": 6,
                 "GOALS": 67,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+29",
+                "GOALS DIFFERENCE": 29,
                 "PERFORMANCE (%)": "70%"
             },
             "2015": {
@@ -2089,7 +2089,7 @@
                 "LOSTS": 13,
                 "GOALS": 44,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "48%"
             },
             "2016": {
@@ -2101,7 +2101,7 @@
                 "LOSTS": 15,
                 "GOALS": 48,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "45%"
             },
             "2017": {
@@ -2113,7 +2113,7 @@
                 "LOSTS": 11,
                 "GOALS": 47,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "50%"
             },
             "2018": {
@@ -2125,7 +2125,7 @@
                 "LOSTS": 13,
                 "GOALS": 34,
                 "GOALS AGAINST": 34,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "46%"
             },
             "2019": {
@@ -2137,7 +2137,7 @@
                 "LOSTS": 16,
                 "GOALS": 27,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u201319",
+                "GOALS DIFFERENCE": -19,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -2159,7 +2159,7 @@
                 "LOSTS": 11,
                 "GOALS": 34,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "41%"
             },
             "2022": {
@@ -2171,7 +2171,7 @@
                 "LOSTS": 17,
                 "GOALS": 31,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "\u221211\n",
+                "GOALS DIFFERENCE": -11,
                 "PERFORMANCE (%)": "35%"
             }
         }
@@ -2202,7 +2202,7 @@
                 "LOSTS": 15,
                 "GOALS": 62,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "47%"
             },
             "2004": {
@@ -2214,7 +2214,7 @@
                 "LOSTS": 17,
                 "GOALS": 57,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": -2.0,
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "46%"
             },
             "2005": {
@@ -2226,7 +2226,7 @@
                 "LOSTS": 17,
                 "GOALS": 65,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "42%"
             },
             "2006": {
@@ -2238,7 +2238,7 @@
                 "LOSTS": 11,
                 "GOALS": 52,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": 8.0,
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "50%"
             },
             "2007": {
@@ -2250,7 +2250,7 @@
                 "LOSTS": 13,
                 "GOALS": 57,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": 1.0,
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "46%"
             },
             "2008": {
@@ -2262,7 +2262,7 @@
                 "LOSTS": 16,
                 "GOALS": 49,
                 "GOALS AGAINST": 73,
-                "GOALS DIFFERENCE": "\u201324",
+                "GOALS DIFFERENCE": -24,
                 "PERFORMANCE (%)": "38%"
             },
             "2011": {
@@ -2274,7 +2274,7 @@
                 "LOSTS": 10,
                 "GOALS": 46,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": 1.0,
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "51%"
             },
             "2012": {
@@ -2286,7 +2286,7 @@
                 "LOSTS": 22,
                 "GOALS": 39,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u201333",
+                "GOALS DIFFERENCE": -33,
                 "PERFORMANCE (%)": "26%"
             },
             "2014": {
@@ -2298,7 +2298,7 @@
                 "LOSTS": 17,
                 "GOALS": 37,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "41%"
             },
             "2015": {
@@ -2310,7 +2310,7 @@
                 "LOSTS": 17,
                 "GOALS": 36,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "\u201314",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "38%"
             },
             "2016": {
@@ -2322,7 +2322,7 @@
                 "LOSTS": 17,
                 "GOALS": 30,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "\u201320",
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -2362,7 +2362,7 @@
                 "LOSTS": 16,
                 "GOALS": 66,
                 "GOALS AGAINST": 73,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "47%"
             },
             "2004": {
@@ -2374,7 +2374,7 @@
                 "LOSTS": 18,
                 "GOALS": 51,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": -2.0,
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "39%"
             },
             "2005": {
@@ -2386,7 +2386,7 @@
                 "LOSTS": 15,
                 "GOALS": 56,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "44%"
             },
             "2006": {
@@ -2398,7 +2398,7 @@
                 "LOSTS": 16,
                 "GOALS": 44,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": -4.0,
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "46%"
             },
             "2007": {
@@ -2410,7 +2410,7 @@
                 "LOSTS": 11,
                 "GOALS": 55,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": 6.0,
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "54%"
             },
             "2008": {
@@ -2422,7 +2422,7 @@
                 "LOSTS": 10,
                 "GOALS": 67,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "56%"
             },
             "2009": {
@@ -2434,7 +2434,7 @@
                 "LOSTS": 9,
                 "GOALS": 58,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+14",
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "59%"
             },
             "2010": {
@@ -2446,7 +2446,7 @@
                 "LOSTS": 12,
                 "GOALS": 41,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "39%"
             },
             "2011": {
@@ -2458,7 +2458,7 @@
                 "LOSTS": 7,
                 "GOALS": 59,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": 12.0,
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "53%"
             },
             "2012": {
@@ -2470,7 +2470,7 @@
                 "LOSTS": 12,
                 "GOALS": 39,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "44%"
             },
             "2013": {
@@ -2482,7 +2482,7 @@
                 "LOSTS": 13,
                 "GOALS": 43,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "43%"
             },
             "2014": {
@@ -2494,7 +2494,7 @@
                 "LOSTS": 14,
                 "GOALS": 46,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "45%"
             },
             "2015": {
@@ -2506,7 +2506,7 @@
                 "LOSTS": 19,
                 "GOALS": 45,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "43%"
             },
             "2016": {
@@ -2518,7 +2518,7 @@
                 "LOSTS": 7,
                 "GOALS": 52,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+17",
+                "GOALS DIFFERENCE": 17,
                 "PERFORMANCE (%)": "62%"
             },
             "2017": {
@@ -2530,7 +2530,7 @@
                 "LOSTS": 12,
                 "GOALS": 49,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+11",
+                "GOALS DIFFERENCE": 11,
                 "PERFORMANCE (%)": "49%"
             },
             "2018": {
@@ -2542,7 +2542,7 @@
                 "LOSTS": 8,
                 "GOALS": 59,
                 "GOALS AGAINST": 29,
-                "GOALS DIFFERENCE": "+30",
+                "GOALS DIFFERENCE": 30,
                 "PERFORMANCE (%)": "63%"
             },
             "2019": {
@@ -2554,7 +2554,7 @@
                 "LOSTS": 4,
                 "GOALS": 86,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+49",
+                "GOALS DIFFERENCE": 49,
                 "PERFORMANCE (%)": "79%"
             },
             "2020": {
@@ -2566,7 +2566,7 @@
                 "LOSTS": 9,
                 "GOALS": 68,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "+20",
+                "GOALS DIFFERENCE": 20,
                 "PERFORMANCE (%)": "62%"
             },
             "2021": {
@@ -2578,7 +2578,7 @@
                 "LOSTS": 9,
                 "GOALS": 69,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+33",
+                "GOALS DIFFERENCE": 33,
                 "PERFORMANCE (%)": "62%"
             },
             "2022": {
@@ -2590,7 +2590,7 @@
                 "LOSTS": 12,
                 "GOALS": 60,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+21\n",
+                "GOALS DIFFERENCE": 21,
                 "PERFORMANCE (%)": "54%"
             }
         }
@@ -2630,7 +2630,7 @@
                 "LOSTS": 22,
                 "GOALS": 52,
                 "GOALS AGAINST": 77,
-                "GOALS DIFFERENCE": "\u201325",
+                "GOALS DIFFERENCE": -25,
                 "PERFORMANCE (%)": "37%"
             },
             "2004": {
@@ -2642,7 +2642,7 @@
                 "LOSTS": 15,
                 "GOALS": 65,
                 "GOALS AGAINST": 68,
-                "GOALS DIFFERENCE": -3.0,
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "48%"
             },
             "2005": {
@@ -2654,7 +2654,7 @@
                 "LOSTS": 12,
                 "GOALS": 79,
                 "GOALS AGAINST": 70,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "54%"
             },
             "2006": {
@@ -2666,7 +2666,7 @@
                 "LOSTS": 15,
                 "GOALS": 48,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": -10.0,
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "39%"
             },
             "2007": {
@@ -2678,7 +2678,7 @@
                 "LOSTS": 9,
                 "GOALS": 57,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": 18.0,
+                "GOALS DIFFERENCE": 18,
                 "PERFORMANCE (%)": "54%"
             },
             "2008": {
@@ -2690,7 +2690,7 @@
                 "LOSTS": 15,
                 "GOALS": 49,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "39%"
             },
             "2009": {
@@ -2702,7 +2702,7 @@
                 "LOSTS": 14,
                 "GOALS": 49,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "40%"
             },
             "2010": {
@@ -2714,7 +2714,7 @@
                 "LOSTS": 7,
                 "GOALS": 62,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+26",
+                "GOALS DIFFERENCE": 26,
                 "PERFORMANCE (%)": "62%"
             },
             "2011": {
@@ -2726,7 +2726,7 @@
                 "LOSTS": 15,
                 "GOALS": 60,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": 9.0,
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "55%"
             },
             "2012": {
@@ -2738,7 +2738,7 @@
                 "LOSTS": 5,
                 "GOALS": 61,
                 "GOALS AGAINST": 33,
-                "GOALS DIFFERENCE": "+28",
+                "GOALS DIFFERENCE": 28,
                 "PERFORMANCE (%)": "67%"
             },
             "2013": {
@@ -2750,7 +2750,7 @@
                 "LOSTS": 16,
                 "GOALS": 43,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "40%"
             },
             "2014": {
@@ -2762,7 +2762,7 @@
                 "LOSTS": 11,
                 "GOALS": 61,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "53%"
             },
             "2015": {
@@ -2774,7 +2774,7 @@
                 "LOSTS": 19,
                 "GOALS": 40,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "41%"
             },
             "2016": {
@@ -2786,7 +2786,7 @@
                 "LOSTS": 14,
                 "GOALS": 45,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "44%"
             },
             "2017": {
@@ -2798,7 +2798,7 @@
                 "LOSTS": 13,
                 "GOALS": 50,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "41%"
             },
             "2018": {
@@ -2810,7 +2810,7 @@
                 "LOSTS": 17,
                 "GOALS": 32,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u201314",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "39%"
             },
             "2019": {
@@ -2822,7 +2822,7 @@
                 "LOSTS": 16,
                 "GOALS": 38,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "40%"
             },
             "2020": {
@@ -2834,7 +2834,7 @@
                 "LOSTS": 10,
                 "GOALS": 55,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "56%"
             },
             "2021": {
@@ -2846,7 +2846,7 @@
                 "LOSTS": 14,
                 "GOALS": 38,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "47%"
             },
             "2022": {
@@ -2858,7 +2858,7 @@
                 "LOSTS": 10,
                 "GOALS": 63,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+22\n",
+                "GOALS DIFFERENCE": 22,
                 "PERFORMANCE (%)": "61%"
             }
         }
@@ -2885,7 +2885,7 @@
                 "LOSTS": 21,
                 "GOALS": 58,
                 "GOALS AGAINST": 74,
-                "GOALS DIFFERENCE": "\u201316",
+                "GOALS DIFFERENCE": -16,
                 "PERFORMANCE (%)": "35%"
             },
             "2005": {
@@ -2897,7 +2897,7 @@
                 "LOSTS": 19,
                 "GOALS": 58,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "44%"
             },
             "2006": {
@@ -2909,7 +2909,7 @@
                 "LOSTS": 16,
                 "GOALS": 39,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": -23.0,
+                "GOALS DIFFERENCE": -23,
                 "PERFORMANCE (%)": "33%"
             },
             "2019": {
@@ -2921,7 +2921,7 @@
                 "LOSTS": 15,
                 "GOALS": 50,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "46%"
             },
             "2020": {
@@ -2933,7 +2933,7 @@
                 "LOSTS": 17,
                 "GOALS": 34,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "36%"
             },
             "2021": {
@@ -2945,7 +2945,7 @@
                 "LOSTS": 14,
                 "GOALS": 44,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "51%"
             },
             "2022": {
@@ -2957,7 +2957,7 @@
                 "LOSTS": 13,
                 "GOALS": 46,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+7\n",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "48%"
             }
         }
@@ -2991,7 +2991,7 @@
                 "LOSTS": 17,
                 "GOALS": 78,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "47%"
             },
             "2004": {
@@ -3003,7 +3003,7 @@
                 "LOSTS": 16,
                 "GOALS": 81,
                 "GOALS AGAINST": 68,
-                "GOALS DIFFERENCE": 13.0,
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "52%"
             },
             "2005": {
@@ -3015,7 +3015,7 @@
                 "LOSTS": 12,
                 "GOALS": 68,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "+17",
+                "GOALS DIFFERENCE": 17,
                 "PERFORMANCE (%)": "59%"
             },
             "2006": {
@@ -3027,7 +3027,7 @@
                 "LOSTS": 13,
                 "GOALS": 63,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": 14.0,
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "48%"
             },
             "2007": {
@@ -3039,7 +3039,7 @@
                 "LOSTS": 19,
                 "GOALS": 49,
                 "GOALS AGAINST": 62,
-                "GOALS DIFFERENCE": -13.0,
+                "GOALS DIFFERENCE": -13,
                 "PERFORMANCE (%)": "39%"
             },
             "2008": {
@@ -3051,7 +3051,7 @@
                 "LOSTS": 13,
                 "GOALS": 57,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "46%"
             },
             "2009": {
@@ -3063,7 +3063,7 @@
                 "LOSTS": 13,
                 "GOALS": 64,
                 "GOALS AGAINST": 65,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "48%"
             },
             "2010": {
@@ -3075,7 +3075,7 @@
                 "LOSTS": 21,
                 "GOALS": 41,
                 "GOALS AGAINST": 68,
-                "GOALS DIFFERENCE": "\u201327",
+                "GOALS DIFFERENCE": -27,
                 "PERFORMANCE (%)": "29%"
             },
             "2013": {
@@ -3087,7 +3087,7 @@
                 "LOSTS": 11,
                 "GOALS": 48,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "52%"
             },
             "2014": {
@@ -3099,7 +3099,7 @@
                 "LOSTS": 17,
                 "GOALS": 38,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "41%"
             },
             "2015": {
@@ -3111,7 +3111,7 @@
                 "LOSTS": 20,
                 "GOALS": 39,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "33%"
             },
             "2019": {
@@ -3123,7 +3123,7 @@
                 "LOSTS": 16,
                 "GOALS": 46,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": "\u201318",
+                "GOALS DIFFERENCE": -18,
                 "PERFORMANCE (%)": "46%"
             },
             "2020": {
@@ -3135,7 +3135,7 @@
                 "LOSTS": 19,
                 "GOALS": 41,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": "\u201322",
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "32%"
             },
             "2022": {
@@ -3147,7 +3147,7 @@
                 "LOSTS": 14,
                 "GOALS": 40,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u221213\n",
+                "GOALS DIFFERENCE": -13,
                 "PERFORMANCE (%)": "40%"
             }
         }
@@ -3185,7 +3185,7 @@
                 "LOSTS": 22,
                 "GOALS": 54,
                 "GOALS AGAINST": 68,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "36%"
             },
             "2004": {
@@ -3197,7 +3197,7 @@
                 "LOSTS": 25,
                 "GOALS": 60,
                 "GOALS AGAINST": 80,
-                "GOALS DIFFERENCE": -20.0,
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "28%"
             },
             "2006": {
@@ -3209,7 +3209,7 @@
                 "LOSTS": 11,
                 "GOALS": 64,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": 19.0,
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "59%"
             },
             "2007": {
@@ -3221,7 +3221,7 @@
                 "LOSTS": 14,
                 "GOALS": 44,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": 1.0,
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "51%"
             },
             "2008": {
@@ -3233,7 +3233,7 @@
                 "LOSTS": 8,
                 "GOALS": 59,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+24",
+                "GOALS DIFFERENCE": 24,
                 "PERFORMANCE (%)": "63%"
             },
             "2009": {
@@ -3245,7 +3245,7 @@
                 "LOSTS": 13,
                 "GOALS": 67,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "+21",
+                "GOALS DIFFERENCE": 21,
                 "PERFORMANCE (%)": "48%"
             },
             "2010": {
@@ -3257,7 +3257,7 @@
                 "LOSTS": 9,
                 "GOALS": 68,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "+25",
+                "GOALS DIFFERENCE": 25,
                 "PERFORMANCE (%)": "55%"
             },
             "2011": {
@@ -3269,7 +3269,7 @@
                 "LOSTS": 16,
                 "GOALS": 49,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": -8.0,
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "42%"
             },
             "2012": {
@@ -3281,7 +3281,7 @@
                 "LOSTS": 7,
                 "GOALS": 56,
                 "GOALS AGAINST": 33,
-                "GOALS DIFFERENCE": "+23",
+                "GOALS DIFFERENCE": 23,
                 "PERFORMANCE (%)": "62%"
             },
             "2013": {
@@ -3293,7 +3293,7 @@
                 "LOSTS": 9,
                 "GOALS": 42,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "57%"
             },
             "2014": {
@@ -3305,7 +3305,7 @@
                 "LOSTS": 11,
                 "GOALS": 36,
                 "GOALS AGAINST": 24,
-                "GOALS DIFFERENCE": "+12",
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "53%"
             },
             "2015": {
@@ -3317,7 +3317,7 @@
                 "LOSTS": 10,
                 "GOALS": 52,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+20",
+                "GOALS DIFFERENCE": 20,
                 "PERFORMANCE (%)": "60%"
             },
             "2016": {
@@ -3329,7 +3329,7 @@
                 "LOSTS": 13,
                 "GOALS": 41,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "46%"
             },
             "2017": {
@@ -3341,7 +3341,7 @@
                 "LOSTS": 12,
                 "GOALS": 55,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "54%"
             },
             "2018": {
@@ -3353,7 +3353,7 @@
                 "LOSTS": 8,
                 "GOALS": 48,
                 "GOALS AGAINST": 27,
-                "GOALS DIFFERENCE": "+21",
+                "GOALS DIFFERENCE": 21,
                 "PERFORMANCE (%)": "58%"
             },
             "2019": {
@@ -3365,7 +3365,7 @@
                 "LOSTS": 11,
                 "GOALS": 64,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+25",
+                "GOALS DIFFERENCE": 25,
                 "PERFORMANCE (%)": "57%"
             },
             "2020": {
@@ -3377,7 +3377,7 @@
                 "LOSTS": 7,
                 "GOALS": 53,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "52%"
             },
             "2021": {
@@ -3389,7 +3389,7 @@
                 "LOSTS": 19,
                 "GOALS": 44,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "38%"
             }
         }
@@ -3411,7 +3411,7 @@
                 "LOSTS": 13,
                 "GOALS": 59,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "43%"
             },
             "2010": {
@@ -3423,7 +3423,7 @@
                 "LOSTS": 21,
                 "GOALS": 39,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": "\u201325",
+                "GOALS DIFFERENCE": -25,
                 "PERFORMANCE (%)": "25%"
             }
         }
@@ -3446,7 +3446,7 @@
                 "LOSTS": 19,
                 "GOALS": 64,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "44%"
             },
             "2004": {
@@ -3458,7 +3458,7 @@
                 "LOSTS": 19,
                 "GOALS": 43,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": -12.0,
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "35%"
             },
             "2010": {
@@ -3470,7 +3470,7 @@
                 "LOSTS": 17,
                 "GOALS": 33,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u201320",
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -3509,7 +3509,7 @@
                 "LOSTS": 16,
                 "GOALS": 59,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "+2",
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "52%"
             },
             "2004": {
@@ -3521,7 +3521,7 @@
                 "LOSTS": 19,
                 "GOALS": 66,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": 7.0,
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "48%"
             },
             "2005": {
@@ -3533,7 +3533,7 @@
                 "LOSTS": 10,
                 "GOALS": 72,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "+23",
+                "GOALS DIFFERENCE": 23,
                 "PERFORMANCE (%)": "61%"
             },
             "2006": {
@@ -3545,7 +3545,7 @@
                 "LOSTS": 9,
                 "GOALS": 52,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": 16.0,
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "61%"
             },
             "2007": {
@@ -3557,7 +3557,7 @@
                 "LOSTS": 14,
                 "GOALS": 49,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": 5.0,
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "47%"
             },
             "2008": {
@@ -3569,7 +3569,7 @@
                 "LOSTS": 14,
                 "GOALS": 48,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2009": {
@@ -3581,7 +3581,7 @@
                 "LOSTS": 11,
                 "GOALS": 65,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+21",
+                "GOALS DIFFERENCE": 21,
                 "PERFORMANCE (%)": "57%"
             },
             "2010": {
@@ -3593,7 +3593,7 @@
                 "LOSTS": 12,
                 "GOALS": 48,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "51%"
             },
             "2011": {
@@ -3605,7 +3605,7 @@
                 "LOSTS": 10,
                 "GOALS": 57,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": 14.0,
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "52%"
             },
             "2012": {
@@ -3617,7 +3617,7 @@
                 "LOSTS": 12,
                 "GOALS": 44,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "45%"
             },
             "2013": {
@@ -3629,7 +3629,7 @@
                 "LOSTS": 12,
                 "GOALS": 51,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "42%"
             },
             "2014": {
@@ -3641,7 +3641,7 @@
                 "LOSTS": 11,
                 "GOALS": 53,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+12",
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "60%"
             },
             "2015": {
@@ -3653,7 +3653,7 @@
                 "LOSTS": 12,
                 "GOALS": 39,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "53%"
             },
             "2016": {
@@ -3665,7 +3665,7 @@
                 "LOSTS": 17,
                 "GOALS": 35,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "38%"
             },
             "2018": {
@@ -3677,7 +3677,7 @@
                 "LOSTS": 7,
                 "GOALS": 51,
                 "GOALS AGAINST": 29,
-                "GOALS DIFFERENCE": "+22",
+                "GOALS DIFFERENCE": 22,
                 "PERFORMANCE (%)": "60%"
             },
             "2019": {
@@ -3689,7 +3689,7 @@
                 "LOSTS": 13,
                 "GOALS": 44,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "+5",
+                "GOALS DIFFERENCE": 5,
                 "PERFORMANCE (%)": "50%"
             },
             "2020": {
@@ -3701,7 +3701,7 @@
                 "LOSTS": 8,
                 "GOALS": 61,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+26",
+                "GOALS DIFFERENCE": 26,
                 "PERFORMANCE (%)": "61%"
             },
             "2021": {
@@ -3713,7 +3713,7 @@
                 "LOSTS": 14,
                 "GOALS": 44,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+2",
+                "GOALS DIFFERENCE": 2,
                 "PERFORMANCE (%)": "42%"
             },
             "2022": {
@@ -3725,7 +3725,7 @@
                 "LOSTS": 5,
                 "GOALS": 58,
                 "GOALS AGAINST": 31,
-                "GOALS DIFFERENCE": "+27\n",
+                "GOALS DIFFERENCE": 27,
                 "PERFORMANCE (%)": "64%"
             }
         }
@@ -3746,7 +3746,7 @@
                 "LOSTS": 21,
                 "GOALS": 37,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "\u201330",
+                "GOALS DIFFERENCE": -30,
                 "PERFORMANCE (%)": "30%"
             }
         }
@@ -3767,7 +3767,7 @@
                 "LOSTS": 21,
                 "GOALS": 26,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u201322",
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "27%"
             }
         }
@@ -3794,7 +3794,7 @@
                 "LOSTS": 20,
                 "GOALS": 55,
                 "GOALS AGAINST": 70,
-                "GOALS DIFFERENCE": "\u201315",
+                "GOALS DIFFERENCE": -15,
                 "PERFORMANCE (%)": "38%"
             },
             "2004": {
@@ -3806,7 +3806,7 @@
                 "LOSTS": 16,
                 "GOALS": 60,
                 "GOALS AGAINST": 66,
-                "GOALS DIFFERENCE": -6.0,
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "51%"
             },
             "2005": {
@@ -3818,7 +3818,7 @@
                 "LOSTS": 17,
                 "GOALS": 66,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "44%"
             },
             "2006": {
@@ -3830,7 +3830,7 @@
                 "LOSTS": 17,
                 "GOALS": 44,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": -10.0,
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "41%"
             },
             "2007": {
@@ -3842,7 +3842,7 @@
                 "LOSTS": 19,
                 "GOALS": 43,
                 "GOALS AGAINST": 65,
-                "GOALS DIFFERENCE": -22.0,
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "36%"
             },
             "2021": {
@@ -3854,7 +3854,7 @@
                 "LOSTS": 14,
                 "GOALS": 36,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "40%"
             },
             "2022": {
@@ -3866,7 +3866,7 @@
                 "LOSTS": 22,
                 "GOALS": 29,
                 "GOALS AGAINST": 69,
-                "GOALS DIFFERENCE": "\u221240\n",
+                "GOALS DIFFERENCE": -40,
                 "PERFORMANCE (%)": "19%"
             }
         }
@@ -3891,7 +3891,7 @@
                 "LOSTS": 17,
                 "GOALS": 66,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": 3.0,
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "43%"
             },
             "2008": {
@@ -3903,7 +3903,7 @@
                 "LOSTS": 16,
                 "GOALS": 44,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "38%"
             },
             "2009": {
@@ -3915,7 +3915,7 @@
                 "LOSTS": 20,
                 "GOALS": 48,
                 "GOALS AGAINST": 71,
-                "GOALS DIFFERENCE": "\u201323",
+                "GOALS DIFFERENCE": -23,
                 "PERFORMANCE (%)": "33%"
             },
             "2012": {
@@ -3927,7 +3927,7 @@
                 "LOSTS": 17,
                 "GOALS": 44,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "43%"
             },
             "2013": {
@@ -3939,7 +3939,7 @@
                 "LOSTS": 28,
                 "GOALS": 22,
                 "GOALS AGAINST": 79,
-                "GOALS DIFFERENCE": "\u201357",
+                "GOALS DIFFERENCE": -57,
                 "PERFORMANCE (%)": "17%"
             }
         }
@@ -3977,7 +3977,7 @@
                 "LOSTS": 11,
                 "GOALS": 72,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": 25.0,
+                "GOALS DIFFERENCE": 25,
                 "PERFORMANCE (%)": "57%"
             },
             "2005": {
@@ -3989,7 +3989,7 @@
                 "LOSTS": 12,
                 "GOALS": 81,
                 "GOALS AGAINST": 65,
-                "GOALS DIFFERENCE": "+16",
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "55%"
             },
             "2006": {
@@ -4001,7 +4001,7 @@
                 "LOSTS": 18,
                 "GOALS": 58,
                 "GOALS AGAINST": 70,
-                "GOALS DIFFERENCE": -12.0,
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "39%"
             },
             "2007": {
@@ -4013,7 +4013,7 @@
                 "LOSTS": 12,
                 "GOALS": 48,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": 1.0,
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "51%"
             },
             "2008": {
@@ -4025,7 +4025,7 @@
                 "LOSTS": 11,
                 "GOALS": 55,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "57%"
             },
             "2009": {
@@ -4037,7 +4037,7 @@
                 "LOSTS": 10,
                 "GOALS": 58,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "54%"
             },
             "2010": {
@@ -4049,7 +4049,7 @@
                 "LOSTS": 12,
                 "GOALS": 42,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "44%"
             },
             "2011": {
@@ -4061,7 +4061,7 @@
                 "LOSTS": 10,
                 "GOALS": 43,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": 4.0,
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "44%"
             },
             "2012": {
@@ -4073,7 +4073,7 @@
                 "LOSTS": 22,
                 "GOALS": 39,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u201315",
+                "GOALS DIFFERENCE": -15,
                 "PERFORMANCE (%)": "30%"
             },
             "2014": {
@@ -4085,7 +4085,7 @@
                 "LOSTS": 20,
                 "GOALS": 34,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": "\u201325",
+                "GOALS DIFFERENCE": -25,
                 "PERFORMANCE (%)": "35%"
             },
             "2015": {
@@ -4097,7 +4097,7 @@
                 "LOSTS": 15,
                 "GOALS": 60,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "46%"
             },
             "2016": {
@@ -4109,7 +4109,7 @@
                 "LOSTS": 6,
                 "GOALS": 62,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+30",
+                "GOALS DIFFERENCE": 30,
                 "PERFORMANCE (%)": "70%"
             },
             "2017": {
@@ -4121,7 +4121,7 @@
                 "LOSTS": 13,
                 "GOALS": 61,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "+16",
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "55%"
             },
             "2018": {
@@ -4133,7 +4133,7 @@
                 "LOSTS": 4,
                 "GOALS": 64,
                 "GOALS AGAINST": 26,
-                "GOALS DIFFERENCE": "+38",
+                "GOALS DIFFERENCE": 38,
                 "PERFORMANCE (%)": "70%"
             },
             "2019": {
@@ -4145,7 +4145,7 @@
                 "LOSTS": 6,
                 "GOALS": 61,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+29",
+                "GOALS DIFFERENCE": 29,
                 "PERFORMANCE (%)": "65%"
             },
             "2020": {
@@ -4157,7 +4157,7 @@
                 "LOSTS": 10,
                 "GOALS": 51,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+14",
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "51%"
             },
             "2021": {
@@ -4169,7 +4169,7 @@
                 "LOSTS": 12,
                 "GOALS": 58,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "58%"
             },
             "2022": {
@@ -4181,7 +4181,7 @@
                 "LOSTS": 3,
                 "GOALS": 66,
                 "GOALS AGAINST": 27,
-                "GOALS DIFFERENCE": "+39\n",
+                "GOALS DIFFERENCE": 39,
                 "PERFORMANCE (%)": "71%"
             }
         }
@@ -4207,7 +4207,7 @@
                 "LOSTS": 17,
                 "GOALS": 85,
                 "GOALS AGAINST": 75,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "47%"
             },
             "2004": {
@@ -4219,7 +4219,7 @@
                 "LOSTS": 22,
                 "GOALS": 52,
                 "GOALS AGAINST": 73,
-                "GOALS DIFFERENCE": -21.0,
+                "GOALS DIFFERENCE": -21,
                 "PERFORMANCE (%)": "39%"
             },
             "2005": {
@@ -4231,7 +4231,7 @@
                 "LOSTS": 15,
                 "GOALS": 59,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "48%"
             },
             "2006": {
@@ -4243,7 +4243,7 @@
                 "LOSTS": 14,
                 "GOALS": 56,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": 7.0,
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "53%"
             },
             "2007": {
@@ -4255,7 +4255,7 @@
                 "LOSTS": 19,
                 "GOALS": 42,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": -22.0,
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "36%"
             },
             "2018": {
@@ -4267,7 +4267,7 @@
                 "LOSTS": 23,
                 "GOALS": 18,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "\u201339",
+                "GOALS DIFFERENCE": -39,
                 "PERFORMANCE (%)": "20%"
             }
         }
@@ -4290,7 +4290,7 @@
                 "LOSTS": 19,
                 "GOALS": 74,
                 "GOALS AGAINST": 77,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "35%"
             },
             "2004": {
@@ -4302,7 +4302,7 @@
                 "LOSTS": 18,
                 "GOALS": 56,
                 "GOALS AGAINST": 76,
-                "GOALS DIFFERENCE": -20.0,
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "40%"
             },
             "2005": {
@@ -4314,7 +4314,7 @@
                 "LOSTS": 25,
                 "GOALS": 63,
                 "GOALS AGAINST": 92,
-                "GOALS DIFFERENCE": "\u201329",
+                "GOALS DIFFERENCE": -29,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -4343,7 +4343,7 @@
                 "LOSTS": 17,
                 "GOALS": 63,
                 "GOALS AGAINST": 73,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "36%"
             },
             "2004": {
@@ -4355,7 +4355,7 @@
                 "LOSTS": 20,
                 "GOALS": 43,
                 "GOALS AGAINST": 73,
-                "GOALS DIFFERENCE": -30.0,
+                "GOALS DIFFERENCE": -30,
                 "PERFORMANCE (%)": "46%"
             },
             "2005": {
@@ -4367,7 +4367,7 @@
                 "LOSTS": 21,
                 "GOALS": 63,
                 "GOALS AGAINST": 80,
-                "GOALS DIFFERENCE": "\u201317",
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "40%"
             },
             "2006": {
@@ -4379,7 +4379,7 @@
                 "LOSTS": 19,
                 "GOALS": 45,
                 "GOALS AGAINST": 65,
-                "GOALS DIFFERENCE": -20.0,
+                "GOALS DIFFERENCE": -20,
                 "PERFORMANCE (%)": "34%"
             },
             "2012": {
@@ -4391,7 +4391,7 @@
                 "LOSTS": 14,
                 "GOALS": 37,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "42%"
             },
             "2013": {
@@ -4403,7 +4403,7 @@
                 "LOSTS": 19,
                 "GOALS": 37,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": "\u201318",
+                "GOALS DIFFERENCE": -18,
                 "PERFORMANCE (%)": "32%"
             },
             "2015": {
@@ -4415,7 +4415,7 @@
                 "LOSTS": 13,
                 "GOALS": 41,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "45%"
             },
             "2016": {
@@ -4427,7 +4427,7 @@
                 "LOSTS": 15,
                 "GOALS": 48,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "\u20134",
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "46%"
             },
             "2017": {
@@ -4439,7 +4439,7 @@
                 "LOSTS": 19,
                 "GOALS": 37,
                 "GOALS AGAINST": 52,
-                "GOALS DIFFERENCE": "\u201315",
+                "GOALS DIFFERENCE": -15,
                 "PERFORMANCE (%)": "34%"
             }
         }
@@ -4462,7 +4462,7 @@
                 "LOSTS": 18,
                 "GOALS": 48,
                 "GOALS AGAINST": 70,
-                "GOALS DIFFERENCE": "\u201322",
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "33%"
             },
             "2012": {
@@ -4474,7 +4474,7 @@
                 "LOSTS": 13,
                 "GOALS": 39,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "39%"
             },
             "2013": {
@@ -4486,7 +4486,7 @@
                 "LOSTS": 14,
                 "GOALS": 50,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "42%"
             }
         }
@@ -4509,7 +4509,7 @@
                 "LOSTS": 11,
                 "GOALS": 50,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "46%"
             },
             "2021": {
@@ -4521,7 +4521,7 @@
                 "LOSTS": 10,
                 "GOALS": 55,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "49%"
             },
             "2022": {
@@ -4533,7 +4533,7 @@
                 "LOSTS": 16,
                 "GOALS": 49,
                 "GOALS AGAINST": 59,
-                "GOALS DIFFERENCE": "\u221210\n",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "38%"
             }
         }
@@ -4555,7 +4555,7 @@
                 "LOSTS": 24,
                 "GOALS": 41,
                 "GOALS AGAINST": 76,
-                "GOALS DIFFERENCE": -35.0,
+                "GOALS DIFFERENCE": -35,
                 "PERFORMANCE (%)": "25%"
             },
             "2016": {
@@ -4567,7 +4567,7 @@
                 "LOSTS": 23,
                 "GOALS": 45,
                 "GOALS AGAINST": 69,
-                "GOALS DIFFERENCE": "\u201324",
+                "GOALS DIFFERENCE": -24,
                 "PERFORMANCE (%)": "27%"
             }
         }
@@ -4588,7 +4588,7 @@
                 "LOSTS": 19,
                 "GOALS": 46,
                 "GOALS AGAINST": 61,
-                "GOALS DIFFERENCE": "\u201315",
+                "GOALS DIFFERENCE": -15,
                 "PERFORMANCE (%)": "36%"
             }
         }
@@ -4628,7 +4628,7 @@
                 "LOSTS": 9,
                 "GOALS": 93,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "+33",
+                "GOALS DIFFERENCE": 33,
                 "PERFORMANCE (%)": "63%"
             },
             "2004": {
@@ -4640,7 +4640,7 @@
                 "LOSTS": 11,
                 "GOALS": 103,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": 45.0,
+                "GOALS DIFFERENCE": 45,
                 "PERFORMANCE (%)": "64%"
             },
             "2005": {
@@ -4652,7 +4652,7 @@
                 "LOSTS": 15,
                 "GOALS": 68,
                 "GOALS AGAINST": 71,
-                "GOALS DIFFERENCE": "\u20133",
+                "GOALS DIFFERENCE": -3,
                 "PERFORMANCE (%)": "47%"
             },
             "2006": {
@@ -4664,7 +4664,7 @@
                 "LOSTS": 10,
                 "GOALS": 58,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": 22.0,
+                "GOALS DIFFERENCE": 22,
                 "PERFORMANCE (%)": "56%"
             },
             "2007": {
@@ -4676,7 +4676,7 @@
                 "LOSTS": 14,
                 "GOALS": 57,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": 10.0,
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "54%"
             },
             "2008": {
@@ -4688,7 +4688,7 @@
                 "LOSTS": 15,
                 "GOALS": 44,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u20139",
+                "GOALS DIFFERENCE": -9,
                 "PERFORMANCE (%)": "39%"
             },
             "2009": {
@@ -4700,7 +4700,7 @@
                 "LOSTS": 13,
                 "GOALS": 58,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "43%"
             },
             "2010": {
@@ -4712,7 +4712,7 @@
                 "LOSTS": 12,
                 "GOALS": 63,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "49%"
             },
             "2011": {
@@ -4724,7 +4724,7 @@
                 "LOSTS": 15,
                 "GOALS": 55,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": 0.0,
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "46%"
             },
             "2012": {
@@ -4736,7 +4736,7 @@
                 "LOSTS": 11,
                 "GOALS": 50,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "46%"
             },
             "2013": {
@@ -4748,7 +4748,7 @@
                 "LOSTS": 11,
                 "GOALS": 51,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+13",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "50%"
             },
             "2014": {
@@ -4760,7 +4760,7 @@
                 "LOSTS": 15,
                 "GOALS": 42,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+7",
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "46%"
             },
             "2015": {
@@ -4772,7 +4772,7 @@
                 "LOSTS": 12,
                 "GOALS": 59,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+18",
+                "GOALS DIFFERENCE": 18,
                 "PERFORMANCE (%)": "51%"
             },
             "2016": {
@@ -4784,7 +4784,7 @@
                 "LOSTS": 11,
                 "GOALS": 59,
                 "GOALS AGAINST": 35,
-                "GOALS DIFFERENCE": "+24",
+                "GOALS DIFFERENCE": 24,
                 "PERFORMANCE (%)": "62%"
             },
             "2017": {
@@ -4796,7 +4796,7 @@
                 "LOSTS": 9,
                 "GOALS": 42,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "55%"
             },
             "2018": {
@@ -4808,7 +4808,7 @@
                 "LOSTS": 14,
                 "GOALS": 46,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "44%"
             },
             "2019": {
@@ -4820,7 +4820,7 @@
                 "LOSTS": 8,
                 "GOALS": 60,
                 "GOALS AGAINST": 33,
-                "GOALS DIFFERENCE": "+27",
+                "GOALS DIFFERENCE": 27,
                 "PERFORMANCE (%)": "65%"
             },
             "2020": {
@@ -4832,7 +4832,7 @@
                 "LOSTS": 12,
                 "GOALS": 52,
                 "GOALS AGAINST": 51,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "47%"
             },
             "2021": {
@@ -4844,7 +4844,7 @@
                 "LOSTS": 12,
                 "GOALS": 35,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "\u20135",
+                "GOALS DIFFERENCE": -5,
                 "PERFORMANCE (%)": "44%"
             },
             "2022": {
@@ -4856,7 +4856,7 @@
                 "LOSTS": 15,
                 "GOALS": 44,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+3\n",
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "41%"
             }
         }
@@ -4887,7 +4887,7 @@
                 "LOSTS": 15,
                 "GOALS": 54,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": -1.0,
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "45%"
             },
             "2008": {
@@ -4899,7 +4899,7 @@
                 "LOSTS": 14,
                 "GOALS": 48,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "+3",
+                "GOALS DIFFERENCE": 3,
                 "PERFORMANCE (%)": "45%"
             },
             "2009": {
@@ -4911,7 +4911,7 @@
                 "LOSTS": 21,
                 "GOALS": 48,
                 "GOALS AGAINST": 71,
-                "GOALS DIFFERENCE": "\u201323",
+                "GOALS DIFFERENCE": -23,
                 "PERFORMANCE (%)": "27%"
             },
             "2012": {
@@ -4923,7 +4923,7 @@
                 "LOSTS": 17,
                 "GOALS": 39,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u201317",
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "36%"
             },
             "2014": {
@@ -4935,7 +4935,7 @@
                 "LOSTS": 14,
                 "GOALS": 36,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "45%"
             },
             "2015": {
@@ -4947,7 +4947,7 @@
                 "LOSTS": 9,
                 "GOALS": 53,
                 "GOALS AGAINST": 38,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "52%"
             },
             "2016": {
@@ -4959,7 +4959,7 @@
                 "LOSTS": 17,
                 "GOALS": 49,
                 "GOALS AGAINST": 55,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "41%"
             },
             "2017": {
@@ -4971,7 +4971,7 @@
                 "LOSTS": 17,
                 "GOALS": 46,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "39%"
             },
             "2018": {
@@ -4983,7 +4983,7 @@
                 "LOSTS": 18,
                 "GOALS": 35,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "\u201322",
+                "GOALS DIFFERENCE": -22,
                 "PERFORMANCE (%)": "37%"
             },
             "2020": {
@@ -4995,7 +4995,7 @@
                 "LOSTS": 20,
                 "GOALS": 31,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": "\u201319",
+                "GOALS DIFFERENCE": -19,
                 "PERFORMANCE (%)": "37%"
             },
             "2021": {
@@ -5007,7 +5007,7 @@
                 "LOSTS": 18,
                 "GOALS": 24,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "\u201313",
+                "GOALS DIFFERENCE": -13,
                 "PERFORMANCE (%)": "33%"
             }
         }
@@ -5031,7 +5031,7 @@
                 "LOSTS": 13,
                 "GOALS": 53,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+16",
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "53%"
             },
             "2004": {
@@ -5043,7 +5043,7 @@
                 "LOSTS": 15,
                 "GOALS": 65,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": 15.0,
+                "GOALS DIFFERENCE": 16,
                 "PERFORMANCE (%)": "38%"
             },
             "2005": {
@@ -5055,7 +5055,7 @@
                 "LOSTS": 18,
                 "GOALS": 54,
                 "GOALS AGAINST": 60,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "41%"
             },
             "2006": {
@@ -5067,7 +5067,7 @@
                 "LOSTS": 20,
                 "GOALS": 37,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": -16.0,
+                "GOALS DIFFERENCE": -16,
                 "PERFORMANCE (%)": "32%"
             }
         }
@@ -5107,7 +5107,7 @@
                 "LOSTS": 12,
                 "GOALS": 81,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "+14",
+                "GOALS DIFFERENCE": 14,
                 "PERFORMANCE (%)": "56%"
             },
             "2004": {
@@ -5119,7 +5119,7 @@
                 "LOSTS": 12,
                 "GOALS": 78,
                 "GOALS AGAINST": 43,
-                "GOALS DIFFERENCE": 35.0,
+                "GOALS DIFFERENCE": 35,
                 "PERFORMANCE (%)": "59%"
             },
             "2005": {
@@ -5131,7 +5131,7 @@
                 "LOSTS": 16,
                 "GOALS": 77,
                 "GOALS AGAINST": 67,
-                "GOALS DIFFERENCE": "+10",
+                "GOALS DIFFERENCE": 10,
                 "PERFORMANCE (%)": "46%"
             },
             "2006": {
@@ -5143,7 +5143,7 @@
                 "LOSTS": 4,
                 "GOALS": 66,
                 "GOALS AGAINST": 32,
-                "GOALS DIFFERENCE": 34.0,
+                "GOALS DIFFERENCE": 34,
                 "PERFORMANCE (%)": "68%"
             },
             "2007": {
@@ -5155,7 +5155,7 @@
                 "LOSTS": 7,
                 "GOALS": 55,
                 "GOALS AGAINST": 19,
-                "GOALS DIFFERENCE": 36.0,
+                "GOALS DIFFERENCE": 36,
                 "PERFORMANCE (%)": "68%"
             },
             "2008": {
@@ -5167,7 +5167,7 @@
                 "LOSTS": 5,
                 "GOALS": 66,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+30",
+                "GOALS DIFFERENCE": 30,
                 "PERFORMANCE (%)": "66%"
             },
             "2009": {
@@ -5179,7 +5179,7 @@
                 "LOSTS": 9,
                 "GOALS": 57,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+15",
+                "GOALS DIFFERENCE": 15,
                 "PERFORMANCE (%)": "57%"
             },
             "2010": {
@@ -5191,7 +5191,7 @@
                 "LOSTS": 13,
                 "GOALS": 54,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "0",
+                "GOALS DIFFERENCE": 0,
                 "PERFORMANCE (%)": "48%"
             },
             "2011": {
@@ -5203,7 +5203,7 @@
                 "LOSTS": 11,
                 "GOALS": 57,
                 "GOALS AGAINST": 46,
-                "GOALS DIFFERENCE": 11.0,
+                "GOALS DIFFERENCE": 11,
                 "PERFORMANCE (%)": "52%"
             },
             "2012": {
@@ -5215,7 +5215,7 @@
                 "LOSTS": 12,
                 "GOALS": 59,
                 "GOALS AGAINST": 37,
-                "GOALS DIFFERENCE": "+22",
+                "GOALS DIFFERENCE": 22,
                 "PERFORMANCE (%)": "58%"
             },
             "2013": {
@@ -5227,7 +5227,7 @@
                 "LOSTS": 16,
                 "GOALS": 39,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "44%"
             },
             "2014": {
@@ -5239,7 +5239,7 @@
                 "LOSTS": 8,
                 "GOALS": 59,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": "+19",
+                "GOALS DIFFERENCE": 19,
                 "PERFORMANCE (%)": "61%"
             },
             "2015": {
@@ -5251,7 +5251,7 @@
                 "LOSTS": 12,
                 "GOALS": 53,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "54%"
             },
             "2016": {
@@ -5263,7 +5263,7 @@
                 "LOSTS": 14,
                 "GOALS": 44,
                 "GOALS AGAINST": 36,
-                "GOALS DIFFERENCE": "+8",
+                "GOALS DIFFERENCE": 8,
                 "PERFORMANCE (%)": "46%"
             },
             "2017": {
@@ -5275,7 +5275,7 @@
                 "LOSTS": 14,
                 "GOALS": 48,
                 "GOALS AGAINST": 49,
-                "GOALS DIFFERENCE": "\u20131",
+                "GOALS DIFFERENCE": -1,
                 "PERFORMANCE (%)": "44%"
             },
             "2018": {
@@ -5287,7 +5287,7 @@
                 "LOSTS": 7,
                 "GOALS": 46,
                 "GOALS AGAINST": 34,
-                "GOALS DIFFERENCE": "+12",
+                "GOALS DIFFERENCE": 12,
                 "PERFORMANCE (%)": "55%"
             },
             "2019": {
@@ -5299,7 +5299,7 @@
                 "LOSTS": 9,
                 "GOALS": 39,
                 "GOALS AGAINST": 30,
-                "GOALS DIFFERENCE": "+9",
+                "GOALS DIFFERENCE": 9,
                 "PERFORMANCE (%)": "55%"
             },
             "2020": {
@@ -5311,7 +5311,7 @@
                 "LOSTS": 8,
                 "GOALS": 59,
                 "GOALS AGAINST": 41,
-                "GOALS DIFFERENCE": "+18",
+                "GOALS DIFFERENCE": 18,
                 "PERFORMANCE (%)": "58%"
             },
             "2021": {
@@ -5323,7 +5323,7 @@
                 "LOSTS": 12,
                 "GOALS": 31,
                 "GOALS AGAINST": 39,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "42%"
             },
             "2022": {
@@ -5335,7 +5335,7 @@
                 "LOSTS": 10,
                 "GOALS": 55,
                 "GOALS AGAINST": 42,
-                "GOALS DIFFERENCE": "+13\n",
+                "GOALS DIFFERENCE": 13,
                 "PERFORMANCE (%)": "47%"
             }
         }
@@ -5370,7 +5370,7 @@
                 "LOSTS": 18,
                 "GOALS": 57,
                 "GOALS AGAINST": 69,
-                "GOALS DIFFERENCE": "\u201312",
+                "GOALS DIFFERENCE": -12,
                 "PERFORMANCE (%)": "39%"
             },
             "2004": {
@@ -5382,7 +5382,7 @@
                 "LOSTS": 20,
                 "GOALS": 64,
                 "GOALS AGAINST": 68,
-                "GOALS DIFFERENCE": -4.0,
+                "GOALS DIFFERENCE": -4,
                 "PERFORMANCE (%)": "39%"
             },
             "2005": {
@@ -5394,7 +5394,7 @@
                 "LOSTS": 16,
                 "GOALS": 74,
                 "GOALS AGAINST": 84,
-                "GOALS DIFFERENCE": "\u201310",
+                "GOALS DIFFERENCE": -10,
                 "PERFORMANCE (%)": "44%"
             },
             "2006": {
@@ -5406,7 +5406,7 @@
                 "LOSTS": 9,
                 "GOALS": 57,
                 "GOALS AGAINST": 50,
-                "GOALS DIFFERENCE": 7.0,
+                "GOALS DIFFERENCE": 7,
                 "PERFORMANCE (%)": "52%"
             },
             "2007": {
@@ -5418,7 +5418,7 @@
                 "LOSTS": 14,
                 "GOALS": 58,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": 11.0,
+                "GOALS DIFFERENCE": 11,
                 "PERFORMANCE (%)": "47%"
             },
             "2008": {
@@ -5430,7 +5430,7 @@
                 "LOSTS": 20,
                 "GOALS": 56,
                 "GOALS AGAINST": 72,
-                "GOALS DIFFERENCE": "\u201316",
+                "GOALS DIFFERENCE": -16,
                 "PERFORMANCE (%)": "35%"
             },
             "2010": {
@@ -5442,7 +5442,7 @@
                 "LOSTS": 11,
                 "GOALS": 43,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "43%"
             },
             "2011": {
@@ -5454,7 +5454,7 @@
                 "LOSTS": 7,
                 "GOALS": 57,
                 "GOALS AGAINST": 40,
-                "GOALS DIFFERENCE": 17.0,
+                "GOALS DIFFERENCE": 17,
                 "PERFORMANCE (%)": "60%"
             },
             "2012": {
@@ -5466,7 +5466,7 @@
                 "LOSTS": 12,
                 "GOALS": 45,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+1",
+                "GOALS DIFFERENCE": 1,
                 "PERFORMANCE (%)": "51%"
             },
             "2013": {
@@ -5478,7 +5478,7 @@
                 "LOSTS": 16,
                 "GOALS": 50,
                 "GOALS AGAINST": 61,
-                "GOALS DIFFERENCE": "\u201311",
+                "GOALS DIFFERENCE": -11,
                 "PERFORMANCE (%)": "38%"
             },
             "2015": {
@@ -5490,7 +5490,7 @@
                 "LOSTS": 17,
                 "GOALS": 28,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u201326",
+                "GOALS DIFFERENCE": -26,
                 "PERFORMANCE (%)": "36%"
             },
             "2017": {
@@ -5502,7 +5502,7 @@
                 "LOSTS": 12,
                 "GOALS": 40,
                 "GOALS AGAINST": 47,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "49%"
             },
             "2018": {
@@ -5514,7 +5514,7 @@
                 "LOSTS": 15,
                 "GOALS": 41,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u20137",
+                "GOALS DIFFERENCE": -7,
                 "PERFORMANCE (%)": "38%"
             },
             "2019": {
@@ -5526,7 +5526,7 @@
                 "LOSTS": 13,
                 "GOALS": 39,
                 "GOALS AGAINST": 45,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "43%"
             },
             "2020": {
@@ -5538,7 +5538,7 @@
                 "LOSTS": 17,
                 "GOALS": 37,
                 "GOALS AGAINST": 56,
-                "GOALS DIFFERENCE": "\u201319",
+                "GOALS DIFFERENCE": -19,
                 "PERFORMANCE (%)": "36%"
             }
         }
@@ -5568,7 +5568,7 @@
                 "LOSTS": 20,
                 "GOALS": 50,
                 "GOALS AGAINST": 64,
-                "GOALS DIFFERENCE": "\u201314",
+                "GOALS DIFFERENCE": -14,
                 "PERFORMANCE (%)": "40%"
             },
             "2004": {
@@ -5580,7 +5580,7 @@
                 "LOSTS": 24,
                 "GOALS": 68,
                 "GOALS AGAINST": 87,
-                "GOALS DIFFERENCE": -19.0,
+                "GOALS DIFFERENCE": -19,
                 "PERFORMANCE (%)": "35%"
             },
             "2008": {
@@ -5592,7 +5592,7 @@
                 "LOSTS": 16,
                 "GOALS": 48,
                 "GOALS AGAINST": 44,
-                "GOALS DIFFERENCE": "+4",
+                "GOALS DIFFERENCE": 4,
                 "PERFORMANCE (%)": "45%"
             },
             "2009": {
@@ -5604,7 +5604,7 @@
                 "LOSTS": 16,
                 "GOALS": 51,
                 "GOALS AGAINST": 57,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "42%"
             },
             "2010": {
@@ -5616,7 +5616,7 @@
                 "LOSTS": 14,
                 "GOALS": 42,
                 "GOALS AGAINST": 48,
-                "GOALS DIFFERENCE": "\u20136",
+                "GOALS DIFFERENCE": -6,
                 "PERFORMANCE (%)": "37%"
             },
             "2013": {
@@ -5628,7 +5628,7 @@
                 "LOSTS": 11,
                 "GOALS": 59,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "+6",
+                "GOALS DIFFERENCE": 6,
                 "PERFORMANCE (%)": "52%"
             },
             "2014": {
@@ -5640,7 +5640,7 @@
                 "LOSTS": 20,
                 "GOALS": 37,
                 "GOALS AGAINST": 54,
-                "GOALS DIFFERENCE": "\u201317",
+                "GOALS DIFFERENCE": -17,
                 "PERFORMANCE (%)": "33%"
             },
             "2016": {
@@ -5652,7 +5652,7 @@
                 "LOSTS": 17,
                 "GOALS": 51,
                 "GOALS AGAINST": 53,
-                "GOALS DIFFERENCE": "\u20132",
+                "GOALS DIFFERENCE": -2,
                 "PERFORMANCE (%)": "39%"
             },
             "2017": {
@@ -5664,7 +5664,7 @@
                 "LOSTS": 17,
                 "GOALS": 50,
                 "GOALS AGAINST": 58,
-                "GOALS DIFFERENCE": "\u20138",
+                "GOALS DIFFERENCE": -8,
                 "PERFORMANCE (%)": "38%"
             },
             "2018": {
@@ -5676,7 +5676,7 @@
                 "LOSTS": 19,
                 "GOALS": 36,
                 "GOALS AGAINST": 63,
-                "GOALS DIFFERENCE": "\u201327",
+                "GOALS DIFFERENCE": -27,
                 "PERFORMANCE (%)": "32%"
             }
         }

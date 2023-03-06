@@ -44,7 +44,7 @@ for club in clubs:
             club_losts.append(int(club_line.values[0][6]))
             club_goals.append(int(club_line.values[0][7]))
             club_goals_against.append(int(club_line.values[0][8]))
-            club_goals_difference.append(club_line.values[0][9])
+            club_goals_difference.append(int(club_line.values[0][7]) - int(club_line.values[0][8]))
             club_performances.append(f'{int(club_line.values[0][10])}%')
             year_index = club_participations.index(year)
             club_participation_dict = {'POSITION': club_positions[year_index],
