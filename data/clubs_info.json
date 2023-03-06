@@ -1,7 +1,6 @@
 [
     {
         "NAME": "Am\u00e9rica Mineiro",
-        "PARTICIPATIONS": 5,
         "YEARS PARTICIPATED": [
             2011,
             2016,
@@ -9,6 +8,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 5,
+        "TOTAL POINTS": 211,
+        "TOTAL GOALS": 185,
+        "TOTAL WINS": 53,
+        "TOTAL DRAWS": 52,
+        "TOTAL LOSTS": 85,
+        "TOTAL GOALS AGAINST": 251,
+        "TOTAL GOALS DIFFERENCE": -66,
+        "AVERAGE PERFORMANCE": "36%",
         "PARTICAPTION DESCRIPTION": {
             "2011": {
                 "POSITION": "19\u00e9",
@@ -74,10 +82,18 @@
     },
     {
         "NAME": "Am\u00e9rica de Natal",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2007
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 17,
+        "TOTAL GOALS": 24,
+        "TOTAL WINS": 4,
+        "TOTAL DRAWS": 5,
+        "TOTAL LOSTS": 29,
+        "TOTAL GOALS AGAINST": 80,
+        "TOTAL GOALS DIFFERENCE": -56,
+        "AVERAGE PERFORMANCE": "15%",
         "PARTICAPTION DESCRIPTION": {
             "2007": {
                 "POSITION": "20\u00e9",
@@ -95,7 +111,6 @@
     },
     {
         "NAME": "Athletico Paranaense",
-        "PARTICIPATIONS": 19,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -117,6 +132,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 19,
+        "TOTAL POINTS": 1060,
+        "TOTAL GOALS": 982,
+        "TOTAL WINS": 295,
+        "TOTAL DRAWS": 175,
+        "TOTAL LOSTS": 272,
+        "TOTAL GOALS AGAINST": 922,
+        "TOTAL GOALS DIFFERENCE": 60,
+        "AVERAGE PERFORMANCE": "47%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "12\u00e9",
@@ -350,7 +374,6 @@
     },
     {
         "NAME": "Atl\u00e9tico Goianiense",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2010,
             2011,
@@ -360,6 +383,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 295,
+        "TOTAL GOALS": 288,
+        "TOTAL WINS": 72,
+        "TOTAL DRAWS": 79,
+        "TOTAL LOSTS": 115,
+        "TOTAL GOALS AGAINST": 363,
+        "TOTAL GOALS DIFFERENCE": -75,
+        "AVERAGE PERFORMANCE": "36%",
         "PARTICAPTION DESCRIPTION": {
             "2010": {
                 "POSITION": "16\u00e9",
@@ -449,7 +481,6 @@
     },
     {
         "NAME": "Atl\u00e9tico Mineiro",
-        "PARTICIPATIONS": 19,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -471,6 +502,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 19,
+        "TOTAL POINTS": 1114,
+        "TOTAL GOALS": 1079,
+        "TOTAL WINS": 308,
+        "TOTAL DRAWS": 190,
+        "TOTAL LOSTS": 244,
+        "TOTAL GOALS AGAINST": 949,
+        "TOTAL GOALS DIFFERENCE": 130,
+        "AVERAGE PERFORMANCE": "50%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "7\u00e9",
@@ -704,7 +744,6 @@
     },
     {
         "NAME": "Ava\u00ed",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2009,
             2010,
@@ -714,6 +753,15 @@
             2019,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 271,
+        "TOTAL GOALS": 274,
+        "TOTAL WINS": 66,
+        "TOTAL DRAWS": 73,
+        "TOTAL LOSTS": 127,
+        "TOTAL GOALS AGAINST": 415,
+        "TOTAL GOALS DIFFERENCE": -141,
+        "AVERAGE PERFORMANCE": "33%",
         "PARTICAPTION DESCRIPTION": {
             "2009": {
                 "POSITION": "6\u00e9",
@@ -803,7 +851,6 @@
     },
     {
         "NAME": "Bahia",
-        "PARTICIPATIONS": 10,
         "YEARS PARTICIPATED": [
             2003,
             2011,
@@ -816,6 +863,15 @@
             2020,
             2021
         ],
+        "TOTAL PARTICIPATIONS": 10,
+        "TOTAL POINTS": 458,
+        "TOTAL GOALS": 430,
+        "TOTAL WINS": 115,
+        "TOTAL DRAWS": 113,
+        "TOTAL LOSTS": 160,
+        "TOTAL GOALS AGAINST": 512,
+        "TOTAL GOALS DIFFERENCE": -82,
+        "AVERAGE PERFORMANCE": "39%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "24\u00e9",
@@ -941,7 +997,6 @@
     },
     {
         "NAME": "Botafogo",
-        "PARTICIPATIONS": 17,
         "YEARS PARTICIPATED": [
             2004,
             2005,
@@ -961,6 +1016,15 @@
             2020,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 17,
+        "TOTAL POINTS": 867,
+        "TOTAL GOALS": 818,
+        "TOTAL WINS": 229,
+        "TOTAL DRAWS": 180,
+        "TOTAL LOSTS": 249,
+        "TOTAL GOALS AGAINST": 844,
+        "TOTAL GOALS DIFFERENCE": -26,
+        "AVERAGE PERFORMANCE": "43%",
         "PARTICAPTION DESCRIPTION": {
             "2004": {
                 "POSITION": "20\u00e9",
@@ -1170,10 +1234,18 @@
     },
     {
         "NAME": "Brasiliense",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2005
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 41,
+        "TOTAL GOALS": 47,
+        "TOTAL WINS": 10,
+        "TOTAL DRAWS": 11,
+        "TOTAL LOSTS": 21,
+        "TOTAL GOALS AGAINST": 67,
+        "TOTAL GOALS DIFFERENCE": -20,
+        "AVERAGE PERFORMANCE": "32%",
         "PARTICAPTION DESCRIPTION": {
             "2005": {
                 "POSITION": "22\u00e9",
@@ -1191,10 +1263,18 @@
     },
     {
         "NAME": "CSA",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2019
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 32,
+        "TOTAL GOALS": 24,
+        "TOTAL WINS": 8,
+        "TOTAL DRAWS": 8,
+        "TOTAL LOSTS": 22,
+        "TOTAL GOALS AGAINST": 58,
+        "TOTAL GOALS DIFFERENCE": -34,
+        "AVERAGE PERFORMANCE": "28%",
         "PARTICAPTION DESCRIPTION": {
             "2019": {
                 "POSITION": "18\u00e9",
@@ -1212,7 +1292,6 @@
     },
     {
         "NAME": "Cear\u00e1",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2010,
             2011,
@@ -1222,6 +1301,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 308,
+        "TOTAL GOALS": 277,
+        "TOTAL WINS": 72,
+        "TOTAL DRAWS": 92,
+        "TOTAL LOSTS": 102,
+        "TOTAL GOALS AGAINST": 317,
+        "TOTAL GOALS DIFFERENCE": -40,
+        "AVERAGE PERFORMANCE": "38%",
         "PARTICAPTION DESCRIPTION": {
             "2010": {
                 "POSITION": "12\u00e9",
@@ -1311,7 +1399,6 @@
     },
     {
         "NAME": "Chapecoense",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2014,
             2015,
@@ -1321,6 +1408,15 @@
             2019,
             2021
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 287,
+        "TOTAL GOALS": 261,
+        "TOTAL WINS": 70,
+        "TOTAL DRAWS": 77,
+        "TOTAL LOSTS": 119,
+        "TOTAL GOALS AGAINST": 362,
+        "TOTAL GOALS DIFFERENCE": -101,
+        "AVERAGE PERFORMANCE": "36%",
         "PARTICAPTION DESCRIPTION": {
             "2014": {
                 "POSITION": "15\u00e9",
@@ -1410,7 +1506,6 @@
     },
     {
         "NAME": "Corinthians",
-        "PARTICIPATIONS": 19,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -1432,6 +1527,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 19,
+        "TOTAL POINTS": 1159,
+        "TOTAL GOALS": 952,
+        "TOTAL WINS": 314,
+        "TOTAL DRAWS": 215,
+        "TOTAL LOSTS": 213,
+        "TOTAL GOALS AGAINST": 784,
+        "TOTAL GOALS DIFFERENCE": 168,
+        "AVERAGE PERFORMANCE": "52%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "15\u00e9",
@@ -1665,7 +1769,6 @@
     },
     {
         "NAME": "Coritiba",
-        "PARTICIPATIONS": 14,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -1682,6 +1785,15 @@
             2020,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 14,
+        "TOTAL POINTS": 688,
+        "TOTAL GOALS": 652,
+        "TOTAL WINS": 181,
+        "TOTAL DRAWS": 145,
+        "TOTAL LOSTS": 226,
+        "TOTAL GOALS AGAINST": 714,
+        "TOTAL GOALS DIFFERENCE": -62,
+        "AVERAGE PERFORMANCE": "41%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "5\u00e9",
@@ -1855,13 +1967,21 @@
     },
     {
         "NAME": "Crici\u00fama",
-        "PARTICIPATIONS": 4,
         "YEARS PARTICIPATED": [
             2003,
             2004,
             2013,
             2014
         ],
+        "TOTAL PARTICIPATIONS": 4,
+        "TOTAL POINTS": 188,
+        "TOTAL GOALS": 195,
+        "TOTAL WINS": 50,
+        "TOTAL DRAWS": 38,
+        "TOTAL LOSTS": 80,
+        "TOTAL GOALS AGAINST": 266,
+        "TOTAL GOALS DIFFERENCE": -71,
+        "AVERAGE PERFORMANCE": "36%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "14\u00e9",
@@ -1915,7 +2035,6 @@
     },
     {
         "NAME": "Cruzeiro",
-        "PARTICIPATIONS": 17,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -1935,6 +2054,15 @@
             2018,
             2019
         ],
+        "TOTAL PARTICIPATIONS": 17,
+        "TOTAL POINTS": 1030,
+        "TOTAL GOALS": 978,
+        "TOTAL WINS": 293,
+        "TOTAL DRAWS": 151,
+        "TOTAL LOSTS": 222,
+        "TOTAL GOALS AGAINST": 818,
+        "TOTAL GOALS DIFFERENCE": 160,
+        "AVERAGE PERFORMANCE": "51%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "1\u00e9",
@@ -2144,11 +2272,19 @@
     },
     {
         "NAME": "Cuiab\u00e1",
-        "PARTICIPATIONS": 2,
         "YEARS PARTICIPATED": [
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 2,
+        "TOTAL POINTS": 88,
+        "TOTAL GOALS": 65,
+        "TOTAL WINS": 20,
+        "TOTAL DRAWS": 28,
+        "TOTAL LOSTS": 28,
+        "TOTAL GOALS AGAINST": 79,
+        "TOTAL GOALS DIFFERENCE": -14,
+        "AVERAGE PERFORMANCE": "38%",
         "PARTICAPTION DESCRIPTION": {
             "2021": {
                 "POSITION": "15\u00e9",
@@ -2178,7 +2314,6 @@
     },
     {
         "NAME": "Figueirense",
-        "PARTICIPATIONS": 11,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -2192,6 +2327,15 @@
             2015,
             2016
         ],
+        "TOTAL PARTICIPATIONS": 11,
+        "TOTAL POINTS": 550,
+        "TOTAL GOALS": 530,
+        "TOTAL WINS": 142,
+        "TOTAL DRAWS": 124,
+        "TOTAL LOSTS": 172,
+        "TOTAL GOALS AGAINST": 622,
+        "TOTAL GOALS DIFFERENCE": -92,
+        "AVERAGE PERFORMANCE": "41%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "11\u00e9",
@@ -2329,7 +2473,6 @@
     },
     {
         "NAME": "Flamengo",
-        "PARTICIPATIONS": 20,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -2352,6 +2495,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 20,
+        "TOTAL POINTS": 1213,
+        "TOTAL GOALS": 1113,
+        "TOTAL WINS": 335,
+        "TOTAL DRAWS": 212,
+        "TOTAL LOSTS": 233,
+        "TOTAL GOALS AGAINST": 920,
+        "TOTAL GOALS DIFFERENCE": 193,
+        "AVERAGE PERFORMANCE": "52%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "8\u00e9",
@@ -2597,7 +2749,6 @@
     },
     {
         "NAME": "Fluminense",
-        "PARTICIPATIONS": 20,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -2620,6 +2771,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 20,
+        "TOTAL POINTS": 1125,
+        "TOTAL GOALS": 1047,
+        "TOTAL WINS": 306,
+        "TOTAL DRAWS": 205,
+        "TOTAL LOSTS": 269,
+        "TOTAL GOALS AGAINST": 985,
+        "TOTAL GOALS DIFFERENCE": 62,
+        "AVERAGE PERFORMANCE": "47%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "19\u00e9",
@@ -2865,7 +3025,6 @@
     },
     {
         "NAME": "Fortaleza",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2003,
             2005,
@@ -2875,6 +3034,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 349,
+        "TOTAL GOALS": 329,
+        "TOTAL WINS": 93,
+        "TOTAL DRAWS": 70,
+        "TOTAL LOSTS": 115,
+        "TOTAL GOALS AGAINST": 377,
+        "TOTAL GOALS DIFFERENCE": -48,
+        "AVERAGE PERFORMANCE": "41%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "23\u00e9",
@@ -2964,7 +3132,6 @@
     },
     {
         "NAME": "Goi\u00e1s",
-        "PARTICIPATIONS": 14,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -2981,6 +3148,15 @@
             2020,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 14,
+        "TOTAL POINTS": 731,
+        "TOTAL GOALS": 753,
+        "TOTAL WINS": 200,
+        "TOTAL DRAWS": 131,
+        "TOTAL LOSTS": 221,
+        "TOTAL GOALS AGAINST": 786,
+        "TOTAL GOALS DIFFERENCE": -33,
+        "AVERAGE PERFORMANCE": "43%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "9\u00e9",
@@ -3154,7 +3330,6 @@
     },
     {
         "NAME": "Gr\u00eamio",
-        "PARTICIPATIONS": 18,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -3175,6 +3350,15 @@
             2020,
             2021
         ],
+        "TOTAL PARTICIPATIONS": 18,
+        "TOTAL POINTS": 1065,
+        "TOTAL GOALS": 956,
+        "TOTAL WINS": 295,
+        "TOTAL DRAWS": 180,
+        "TOTAL LOSTS": 225,
+        "TOTAL GOALS AGAINST": 778,
+        "TOTAL GOALS DIFFERENCE": 178,
+        "AVERAGE PERFORMANCE": "51%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "20\u00e9",
@@ -3396,11 +3580,19 @@
     },
     {
         "NAME": "Gr\u00eamio Barueri",
-        "PARTICIPATIONS": 2,
         "YEARS PARTICIPATED": [
             2009,
             2010
         ],
+        "TOTAL PARTICIPATIONS": 2,
+        "TOTAL POINTS": 77,
+        "TOTAL GOALS": 98,
+        "TOTAL WINS": 19,
+        "TOTAL DRAWS": 23,
+        "TOTAL LOSTS": 34,
+        "TOTAL GOALS AGAINST": 116,
+        "TOTAL GOALS DIFFERENCE": -18,
+        "AVERAGE PERFORMANCE": "34%",
         "PARTICAPTION DESCRIPTION": {
             "2009": {
                 "POSITION": "11\u00e9",
@@ -3430,12 +3622,20 @@
     },
     {
         "NAME": "Guarani",
-        "PARTICIPATIONS": 3,
         "YEARS PARTICIPATED": [
             2003,
             2004,
             2010
         ],
+        "TOTAL PARTICIPATIONS": 3,
+        "TOTAL POINTS": 147,
+        "TOTAL GOALS": 140,
+        "TOTAL WINS": 36,
+        "TOTAL DRAWS": 39,
+        "TOTAL LOSTS": 55,
+        "TOTAL GOALS AGAINST": 180,
+        "TOTAL GOALS DIFFERENCE": -40,
+        "AVERAGE PERFORMANCE": "37%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "13\u00e9",
@@ -3477,7 +3677,6 @@
     },
     {
         "NAME": "Internacional",
-        "PARTICIPATIONS": 19,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -3499,6 +3698,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 19,
+        "TOTAL POINTS": 1166,
+        "TOTAL GOALS": 996,
+        "TOTAL WINS": 324,
+        "TOTAL DRAWS": 192,
+        "TOTAL LOSTS": 226,
+        "TOTAL GOALS AGAINST": 808,
+        "TOTAL GOALS DIFFERENCE": 188,
+        "AVERAGE PERFORMANCE": "52%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "6\u00e9",
@@ -3732,10 +3940,18 @@
     },
     {
         "NAME": "Ipatinga",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2008
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 35,
+        "TOTAL GOALS": 37,
+        "TOTAL WINS": 9,
+        "TOTAL DRAWS": 8,
+        "TOTAL LOSTS": 21,
+        "TOTAL GOALS AGAINST": 67,
+        "TOTAL GOALS DIFFERENCE": -30,
+        "AVERAGE PERFORMANCE": "30%",
         "PARTICAPTION DESCRIPTION": {
             "2008": {
                 "POSITION": "20\u00e9",
@@ -3753,10 +3969,18 @@
     },
     {
         "NAME": "Joinville",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2015
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 31,
+        "TOTAL GOALS": 26,
+        "TOTAL WINS": 7,
+        "TOTAL DRAWS": 10,
+        "TOTAL LOSTS": 21,
+        "TOTAL GOALS AGAINST": 48,
+        "TOTAL GOALS DIFFERENCE": -22,
+        "AVERAGE PERFORMANCE": "27%",
         "PARTICAPTION DESCRIPTION": {
             "2015": {
                 "POSITION": "20\u00e9",
@@ -3774,7 +3998,6 @@
     },
     {
         "NAME": "Juventude",
-        "PARTICIPATIONS": 7,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -3784,6 +4007,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 7,
+        "TOTAL POINTS": 334,
+        "TOTAL GOALS": 333,
+        "TOTAL WINS": 85,
+        "TOTAL DRAWS": 76,
+        "TOTAL LOSTS": 125,
+        "TOTAL GOALS AGAINST": 440,
+        "TOTAL GOALS DIFFERENCE": -107,
+        "AVERAGE PERFORMANCE": "38%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "18\u00e9",
@@ -3873,7 +4105,6 @@
     },
     {
         "NAME": "N\u00e1utico",
-        "PARTICIPATIONS": 5,
         "YEARS PARTICIPATED": [
             2007,
             2008,
@@ -3881,6 +4112,15 @@
             2012,
             2013
         ],
+        "TOTAL PARTICIPATIONS": 5,
+        "TOTAL POINTS": 200,
+        "TOTAL GOALS": 224,
+        "TOTAL WINS": 54,
+        "TOTAL DRAWS": 38,
+        "TOTAL LOSTS": 98,
+        "TOTAL GOALS AGAINST": 318,
+        "TOTAL GOALS DIFFERENCE": -94,
+        "AVERAGE PERFORMANCE": "34%",
         "PARTICAPTION DESCRIPTION": {
             "2007": {
                 "POSITION": "15\u00e9",
@@ -3946,7 +4186,6 @@
     },
     {
         "NAME": "Palmeiras",
-        "PARTICIPATIONS": 18,
         "YEARS PARTICIPATED": [
             2004,
             2005,
@@ -3967,6 +4206,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 18,
+        "TOTAL POINTS": 1107,
+        "TOTAL GOALS": 1013,
+        "TOTAL WINS": 309,
+        "TOTAL DRAWS": 180,
+        "TOTAL LOSTS": 207,
+        "TOTAL GOALS AGAINST": 807,
+        "TOTAL GOALS DIFFERENCE": 206,
+        "AVERAGE PERFORMANCE": "52%",
         "PARTICAPTION DESCRIPTION": {
             "2004": {
                 "POSITION": "4\u00e9",
@@ -4188,7 +4436,6 @@
     },
     {
         "NAME": "Paran\u00e1",
-        "PARTICIPATIONS": 6,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -4197,6 +4444,15 @@
             2007,
             2018
         ],
+        "TOTAL PARTICIPATIONS": 6,
+        "TOTAL POINTS": 304,
+        "TOTAL GOALS": 312,
+        "TOTAL WINS": 83,
+        "TOTAL DRAWS": 55,
+        "TOTAL LOSTS": 110,
+        "TOTAL GOALS AGAINST": 369,
+        "TOTAL GOALS DIFFERENCE": -57,
+        "AVERAGE PERFORMANCE": "40%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "10\u00e9",
@@ -4274,12 +4530,20 @@
     },
     {
         "NAME": "Paysandu",
-        "PARTICIPATIONS": 3,
         "YEARS PARTICIPATED": [
             2003,
             2004,
             2005
         ],
+        "TOTAL PARTICIPATIONS": 3,
+        "TOTAL POINTS": 146,
+        "TOTAL GOALS": 193,
+        "TOTAL WINS": 41,
+        "TOTAL DRAWS": 31,
+        "TOTAL LOSTS": 62,
+        "TOTAL GOALS AGAINST": 245,
+        "TOTAL GOALS DIFFERENCE": -52,
+        "AVERAGE PERFORMANCE": "35%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "22\u00e9",
@@ -4321,7 +4585,6 @@
     },
     {
         "NAME": "Ponte Preta",
-        "PARTICIPATIONS": 9,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -4333,6 +4596,15 @@
             2016,
             2017
         ],
+        "TOTAL PARTICIPATIONS": 9,
+        "TOTAL POINTS": 432,
+        "TOTAL GOALS": 414,
+        "TOTAL WINS": 114,
+        "TOTAL DRAWS": 91,
+        "TOTAL LOSTS": 157,
+        "TOTAL GOALS AGAINST": 534,
+        "TOTAL GOALS DIFFERENCE": -120,
+        "AVERAGE PERFORMANCE": "39%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "21\u00e9",
@@ -4446,12 +4718,20 @@
     },
     {
         "NAME": "Portuguesa",
-        "PARTICIPATIONS": 3,
         "YEARS PARTICIPATED": [
             2008,
             2012,
             2013
         ],
+        "TOTAL PARTICIPATIONS": 3,
+        "TOTAL POINTS": 127,
+        "TOTAL GOALS": 137,
+        "TOTAL WINS": 31,
+        "TOTAL DRAWS": 38,
+        "TOTAL LOSTS": 45,
+        "TOTAL GOALS AGAINST": 157,
+        "TOTAL GOALS DIFFERENCE": -20,
+        "AVERAGE PERFORMANCE": "38%",
         "PARTICAPTION DESCRIPTION": {
             "2008": {
                 "POSITION": "19\u00e9",
@@ -4493,12 +4773,20 @@
     },
     {
         "NAME": "Red Bull Bragantino",
-        "PARTICIPATIONS": 3,
         "YEARS PARTICIPATED": [
             2020,
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 3,
+        "TOTAL POINTS": 153,
+        "TOTAL GOALS": 154,
+        "TOTAL WINS": 38,
+        "TOTAL DRAWS": 39,
+        "TOTAL LOSTS": 37,
+        "TOTAL GOALS AGAINST": 145,
+        "TOTAL GOALS DIFFERENCE": 9,
+        "AVERAGE PERFORMANCE": "44%",
         "PARTICAPTION DESCRIPTION": {
             "2020": {
                 "POSITION": "10\u00e9",
@@ -4540,11 +4828,19 @@
     },
     {
         "NAME": "Santa Cruz",
-        "PARTICIPATIONS": 2,
         "YEARS PARTICIPATED": [
             2006,
             2016
         ],
+        "TOTAL PARTICIPATIONS": 2,
+        "TOTAL POINTS": 56,
+        "TOTAL GOALS": 86,
+        "TOTAL WINS": 15,
+        "TOTAL DRAWS": 14,
+        "TOTAL LOSTS": 47,
+        "TOTAL GOALS AGAINST": 145,
+        "TOTAL GOALS DIFFERENCE": -59,
+        "AVERAGE PERFORMANCE": "26%",
         "PARTICAPTION DESCRIPTION": {
             "2006": {
                 "POSITION": "20\u00e9",
@@ -4574,10 +4870,18 @@
     },
     {
         "NAME": "Santo Andr\u00e9",
-        "PARTICIPATIONS": 1,
         "YEARS PARTICIPATED": [
             2009
         ],
+        "TOTAL PARTICIPATIONS": 1,
+        "TOTAL POINTS": 41,
+        "TOTAL GOALS": 46,
+        "TOTAL WINS": 11,
+        "TOTAL DRAWS": 8,
+        "TOTAL LOSTS": 19,
+        "TOTAL GOALS AGAINST": 61,
+        "TOTAL GOALS DIFFERENCE": -15,
+        "AVERAGE PERFORMANCE": "36%",
         "PARTICAPTION DESCRIPTION": {
             "2009": {
                 "POSITION": "18\u00e9",
@@ -4595,7 +4899,6 @@
     },
     {
         "NAME": "Santos",
-        "PARTICIPATIONS": 20,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -4618,6 +4921,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 20,
+        "TOTAL POINTS": 1194,
+        "TOTAL GOALS": 1139,
+        "TOTAL WINS": 329,
+        "TOTAL DRAWS": 207,
+        "TOTAL LOSTS": 244,
+        "TOTAL GOALS AGAINST": 918,
+        "TOTAL GOALS DIFFERENCE": 221,
+        "AVERAGE PERFORMANCE": "50%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "2\u00e9",
@@ -4863,7 +5175,6 @@
     },
     {
         "NAME": "Sport",
-        "PARTICIPATIONS": 11,
         "YEARS PARTICIPATED": [
             2007,
             2008,
@@ -4877,6 +5188,15 @@
             2020,
             2021
         ],
+        "TOTAL PARTICIPATIONS": 11,
+        "TOTAL POINTS": 497,
+        "TOTAL GOALS": 463,
+        "TOTAL WINS": 131,
+        "TOTAL DRAWS": 107,
+        "TOTAL LOSTS": 180,
+        "TOTAL GOALS AGAINST": 568,
+        "TOTAL GOALS DIFFERENCE": -105,
+        "AVERAGE PERFORMANCE": "39%",
         "PARTICAPTION DESCRIPTION": {
             "2007": {
                 "POSITION": "14\u00e9",
@@ -5014,13 +5334,21 @@
     },
     {
         "NAME": "S\u00e3o Caetano",
-        "PARTICIPATIONS": 4,
         "YEARS PARTICIPATED": [
             2003,
             2004,
             2005,
             2006
         ],
+        "TOTAL PARTICIPATIONS": 4,
+        "TOTAL POINTS": 215,
+        "TOTAL GOALS": 209,
+        "TOTAL WINS": 65,
+        "TOTAL DRAWS": 41,
+        "TOTAL LOSTS": 66,
+        "TOTAL GOALS AGAINST": 199,
+        "TOTAL GOALS DIFFERENCE": 10,
+        "AVERAGE PERFORMANCE": "41%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "4\u00e9",
@@ -5074,7 +5402,6 @@
     },
     {
         "NAME": "S\u00e3o Paulo",
-        "PARTICIPATIONS": 20,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -5097,6 +5424,15 @@
             2021,
             2022
         ],
+        "TOTAL PARTICIPATIONS": 20,
+        "TOTAL POINTS": 1271,
+        "TOTAL GOALS": 1123,
+        "TOTAL WINS": 351,
+        "TOTAL DRAWS": 218,
+        "TOTAL LOSTS": 211,
+        "TOTAL GOALS AGAINST": 841,
+        "TOTAL GOALS DIFFERENCE": 282,
+        "AVERAGE PERFORMANCE": "54%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "3\u00e9",
@@ -5342,7 +5678,6 @@
     },
     {
         "NAME": "Vasco da Gama",
-        "PARTICIPATIONS": 15,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -5360,6 +5695,15 @@
             2019,
             2020
         ],
+        "TOTAL PARTICIPATIONS": 15,
+        "TOTAL POINTS": 767,
+        "TOTAL GOALS": 746,
+        "TOTAL WINS": 197,
+        "TOTAL DRAWS": 176,
+        "TOTAL LOSTS": 217,
+        "TOTAL GOALS AGAINST": 830,
+        "TOTAL GOALS DIFFERENCE": -84,
+        "AVERAGE PERFORMANCE": "43%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "17\u00e9",
@@ -5545,7 +5889,6 @@
     },
     {
         "NAME": "Vit\u00f3ria",
-        "PARTICIPATIONS": 10,
         "YEARS PARTICIPATED": [
             2003,
             2004,
@@ -5558,6 +5901,15 @@
             2017,
             2018
         ],
+        "TOTAL PARTICIPATIONS": 10,
+        "TOTAL POINTS": 468,
+        "TOTAL GOALS": 492,
+        "TOTAL WINS": 123,
+        "TOTAL DRAWS": 99,
+        "TOTAL LOSTS": 174,
+        "TOTAL GOALS AGAINST": 581,
+        "TOTAL GOALS DIFFERENCE": -89,
+        "AVERAGE PERFORMANCE": "39%",
         "PARTICAPTION DESCRIPTION": {
             "2003": {
                 "POSITION": "16\u00e9",

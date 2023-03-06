@@ -36,7 +36,7 @@ for club in clubs:
         if club in df['CLUB'].values:
             club_line = df.loc[df['CLUB'] == club]
             club_participations.append(year)
-            club_positions.append(f'{int(club_line.values[0][0])}\u00e9')
+            club_positions.append(int(club_line.values[0][0]))
             club_points.append(int(club_line.values[0][2]))
             club_matches.append(int(club_line.values[0][3]))
             club_wins.append(int(club_line.values[0][4]))
@@ -45,9 +45,9 @@ for club in clubs:
             club_goals.append(int(club_line.values[0][7]))
             club_goals_against.append(int(club_line.values[0][8]))
             club_goals_difference.append(int(club_line.values[0][7]) - int(club_line.values[0][8]))
-            club_performances.append(f'{int(club_line.values[0][10])}%')
+            club_performances.append(int(club_line.values[0][10]))
             year_index = club_participations.index(year)
-            club_participation_dict = {'POSITION': club_positions[year_index],
+            club_participation_dict = {'POSITION': f'{club_positions[year_index]}\u00e9',
                                         'POINTS': club_points[year_index],
                                         'MATCHES': club_matches[year_index],
                                         'WINS': club_wins[year_index],
@@ -56,13 +56,21 @@ for club in clubs:
                                         'GOALS': club_goals[year_index],
                                         'GOALS AGAINST': club_goals_against[year_index],
                                         'GOALS DIFFERENCE': club_goals_difference[year_index],
-                                        'PERFORMANCE (%)': club_performances[year_index]}
+                                        'PERFORMANCE (%)': f'{club_performances[year_index]}%'}
             club_participations_descriptions.append(club_participation_dict)
 
 
     club_dict['NAME'] = club
-    club_dict['PARTICIPATIONS'] = len(club_participations)
     club_dict['YEARS PARTICIPATED'] = club_participations
+    club_dict['TOTAL PARTICIPATIONS'] = len(club_participations)
+    club_dict['TOTAL POINTS'] = sum(club_points)
+    club_dict['TOTAL GOALS'] = sum(club_goals)
+    club_dict['TOTAL WINS'] = sum(club_wins)
+    club_dict['TOTAL DRAWS'] = sum(club_draws)
+    club_dict['TOTAL LOSTS'] = sum(club_losts)
+    club_dict['TOTAL GOALS AGAINST'] = sum(club_goals_against)
+    club_dict['TOTAL GOALS DIFFERENCE'] = sum(club_goals_difference)
+    club_dict['AVERAGE PERFORMANCE'] = f'{int(sum(club_performances)/len(club_participations))}%'
     club_dict['PARTICAPTION DESCRIPTION'] = dict(zip(club_participations, club_participations_descriptions))
     clubs_complete.append(club_dict)
 
